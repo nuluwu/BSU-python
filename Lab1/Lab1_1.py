@@ -10,23 +10,23 @@ def InvincibleRabbits(n, k):
     return m2
 
 
-## Test 1
+## Тест 1
 print(InvincibleRabbits(5, 3))
 
-## Test 2
+## Тест 2
 print(InvincibleRabbits(6, 3))
 
-## Test 3
+## Тест 3
 print(InvincibleRabbits(5, 5))
 
-## Test 4
+## Тест 4
 print(InvincibleRabbits(12, 1))
 
-## Test 5
+## Тест 5
 print(InvincibleRabbits(100, 3))
 
-## Test 6
+## Тест 6
 print(InvincibleRabbits(20, 2))
 
-## Test 7
+## Тест 7
 print(InvincibleRabbits(33, 2))
