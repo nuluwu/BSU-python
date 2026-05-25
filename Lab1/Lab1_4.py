@@ -34,5 +34,5 @@ def Function(n):
         print(*p)
 
 
-## Test
+## Тест
 Function(3)
