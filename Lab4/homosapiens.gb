@@ -1,0 +1,706 @@
+LOCUS       HSU60808                2051 bp    mRNA    linear   PRI 02-APR-1997
+DEFINITION  Human CDP-diacylglycerol synthase (CDS) mRNA, complete cds.
+ACCESSION   U60808
+VERSION     U60808.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2051)
+  AUTHORS   Weeks,R., Dowhan,W., Shen,H., Balantac,N., Meengs,B., Nudelman,E.
+            and Leung,D.W.
+  TITLE     Isolation and expression of an isoform of human CDP-diacylglycerol
+            synthase cDNA
+  JOURNAL   DNA Cell Biol. 16 (3), 281-289 (1997)
+   PUBMED   9115637
+REFERENCE   2  (bases 1 to 2051)
+  AUTHORS   Leung,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUN-1996) Mol. Biol., Cell Therapeutics, Inc., 201
+            Elliott Ave., W., Suite 400, Seattle, WA 98119, USA
+FEATURES             Location/Qualifiers
+     source          1..2051
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     gene            1..2051
+                     /gene="CDS"
+     CDS             150..1535
+                     /gene="CDS"
+                     /note="CTP:phosphatidate cytidylytransferase"
+                     /codon_start=1
+                     /product="CDP-diacylglycerol synthase"
+                     /protein_id="AAC51184.1"
+                     /translation="MLELRHRGSCPGPREAVSPPHREGEAAGGDHETESTSDKETDID
+                     DRYGDLDSRTDSDIPEIPPSSDRTPEILKKALSGLSSRWKNWWIRGILTLTMISLFFL
+                     IIYMGSFMLMLLVLGIQVKCFHEIITIGYRVYHSYDLPWFRTLSWYFLLCVNYFFYGE
+                     TVADYFATFVQREEQLQFLIRYHRFISFALYLAGFCMFVLSLVKKHYRLQFYMFAWTH
+                     VTLLITVTQSHLVIQNLFEGMIWFLVPISSVICNDITAYLFGFFFGRTPLIKLSPKKT
+                     WEGFIGGFFSTVVFGFIAAYVLSKYQYFVCPVEYRSDVNSFVTECEPSELFQLQTYSL
+                     PPFLKAVLRQERVSLYPFQIHSIALSTFASLIGPFGGFFASGFKRAFKIKDFANTIPG
+                     HGGIMDRFDCQYLMATFVHVYITSFIRGPNPSKVLQQLLVLQPEQQLNIYKTLKTHLI
+                     EKGILQPTLKV"
+ORIGIN      
+        1 tctatggtgg ggccgcgtta gtggctgcgg ctccgcggga ctccagggcg cggctgcgag
+       61 gtggcggggc gccccgcctg cagaaccctg cttgcagctc aggtttcggg gtgcttgagg
+      121 aggccgccac ggcagcgcgg gagcggaaga tgttggagct gaggcaccgg ggaagctgcc
+      181 ccggccccag ggaagcggtg tcgccgccac accgcgaggg agaggcggcc ggcggcgacc
+      241 acgaaaccga gagcaccagc gacaaagaaa cagatattga tgacagatat ggagatttgg
+      301 attccagaac agattctgat attccggaaa ttccaccatc ctcagataga acccctgaga
+      361 ttctcaaaaa agctctatct ggtttatctt caaggtggaa aaactggtgg atacgtggaa
+      421 ttctcactct aactatgatc tcgttgtttt tcctgatcat ctatatggga tccttcatgc
+      481 tgatgcttct tgttctgggc atccaagtga aatgcttcca tgaaattatc actataggtt
+      541 atagagtcta tcattcttat gatctaccat ggtttagaac actaagttgg tactttctat
+      601 tgtgtgtaaa ctactttttc tatggagaga ctgtagctga ttattttgct acatttgttc
+      661 aaagagaaga acaacttcag ttcctcattc gctaccatag atttatatca tttgccctct
+      721 atctggcagg tttctgcatg tttgtactga gtttggtgaa gaaacattat cgtctgcagt
+      781 tttatatgtt cgcatggact catgtcactt tactgataac tgtcactcag tcacaccttg
+      841 tcatccaaaa tctgtttgaa ggcatgatat ggttccttgt tccaatatca agtgttatct
+      901 gcaatgacat aactgcttac ctttttggat ttttttttgg gagaactcca ttaattaagt
+      961 tgtctcctaa aaagacttgg gaaggattca ttggtggttt cttttccaca gttgtgtttg
+     1021 gattcattgc tgcctatgtg ttatccaaat accagtactt tgtctgccca gtggaatacc
+     1081 gaagtgatgt aaactccttc gtgacagaat gtgagccctc agaacttttc cagcttcaga
+     1141 cttactcact tccacccttt ctaaaggcag tcttgagaca ggaaagagtg agcttgtacc
+     1201 ctttccagat ccacagcatt gcactgtcaa cctttgcatc tttaattggc ccatttggag
+     1261 gcttctttgc tagtggattc aaaagagcct tcaaaatcaa ggattttgca aataccattc
+     1321 ctggacatgg tgggataatg gacagatttg attgtcagta tttgatggca acttttgtac
+     1381 atgtgtacat cacaagtttt ataaggggcc caaatcccag caaagtgcta cagcagttgt
+     1441 tggtgcttca acctgaacag cagttaaata tatataaaac cctgaagact catctcattg
+     1501 agaaaggaat cctacaaccc accttgaagg tataactgga tccagagagg gaaggactga
+     1561 caagaaggaa ttattcagaa aaacactgac agatgtttta taaattgtac agaaaaatag
+     1621 ttaaaaatgc aataggttga agttttggag atatgtttct ctctgaaatt actgtgaata
+     1681 tttaacaaac acttacttga tctatgttat gaaataagta gcaaattgcc agcaaaatgt
+     1741 cttgtacctt ttctaaagtg tattttctga tgtgaacttc cttcccctta cttgctaggt
+     1801 ttcataattt aaaagactgg tatttaaaag agtcaaacac tataaaatga gtaagttgac
+     1861 gatgttttaa gattgcacct ggcagtgtgc ctttttgcac aaatatttac ttttgcactt
+     1921 ggagctgctt ttaattttag caaaatgttt tatgcaaggc acaataggaa gtcagttctc
+     1981 ctgcacttcc tcctcatgta gtctggagta ctttctaaag ggcttagttg gatttaaaaa
+     2041 aaaaaaaaaa a
+//
+
+LOCUS       BC074881                1460 bp    mRNA    linear   PRI 15-JUL-2006
+DEFINITION  Homo sapiens CDP-diacylglycerol synthase (phosphatidate
+            cytidylyltransferase) 1, mRNA (cDNA clone MGC:103857
+            IMAGE:30915239), complete cds.
+ACCESSION   BC074881
+VERSION     BC074881.2
+KEYWORDS    MGC.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1460)
+  AUTHORS   Strausberg,R.L., Feingold,E.A., Grouse,L.H., Derge,J.G.,
+            Klausner,R.D., Collins,F.S., Wagner,L., Shenmen,C.M., Schuler,G.D.,
+            Altschul,S.F., Zeeberg,B., Buetow,K.H., Schaefer,C.F., Bhat,N.K.,
+            Hopkins,R.F., Jordan,H., Moore,T., Max,S.I., Wang,J., Hsieh,F.,
+            Diatchenko,L., Marusina,K., Farmer,A.A., Rubin,G.M., Hong,L.,
+            Stapleton,M., Soares,M.B., Bonaldo,M.F., Casavant,T.L.,
+            Scheetz,T.E., Brownstein,M.J., Usdin,T.B., Toshiyuki,S.,
+            Carninci,P., Prange,C., Raha,S.S., Loquellano,N.A., Peters,G.J.,
+            Abramson,R.D., Mullahy,S.J., Bosak,S.A., McEwan,P.J.,
+            McKernan,K.J., Malek,J.A., Gunaratne,P.H., Richards,S.,
+            Worley,K.C., Hale,S., Garcia,A.M., Gay,L.J., Hulyk,S.W.,
+            Villalon,D.K., Muzny,D.M., Sodergren,E.J., Lu,X., Gibbs,R.A.,
+            Fahey,J., Helton,E., Ketteman,M., Madan,A., Rodrigues,S.,
+            Sanchez,A., Whiting,M., Madan,A., Young,A.C., Shevchenko,Y.,
+            Bouffard,G.G., Blakesley,R.W., Touchman,J.W., Green,E.D.,
+            Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J., Myers,R.M.,
+            Butterfield,Y.S., Krzywinski,M.I., Skalska,U., Smailus,D.E.,
+            Schnerch,A., Schein,J.E., Jones,S.J. and Marra,M.A.
+  CONSRTM   Mammalian Gene Collection Program Team
+  TITLE     Generation and initial analysis of more than 15,000 full-length
+            human and mouse cDNA sequences
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (26), 16899-16903 (2002)
+   PUBMED   12477932
+REFERENCE   2  (bases 1 to 1460)
+  CONSRTM   NIH MGC Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-2004) National Institutes of Health, Mammalian
+            Gene Collection (MGC), Bethesda, MD 20892-2590, USA
+  REMARK    NIH-MGC Project URL: http://mgc.nci.nih.gov
+COMMENT     On Aug 4, 2004 this sequence version replaced BC074881.1.
+            Contact: MGC help desk
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: Genome Sequence Centre, British Columbia Cancer
+            Center
+            cDNA Library Preparation: British Columbia Cancer Research Center
+            cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+            DNA Sequencing by: Genome Sequence Centre,
+            BC Cancer Agency, Vancouver, BC, Canada
+            info@bcgsc.bc.ca
+            Martin Hirst, Thomas Zeng, Ryan Morin, Michelle Moksa, Johnson
+            Pang, Diana Mah, Jing Wang, Kieth Fichter, Eric Chuah, Allen
+            Delaney, Rob Kirkpatrick, Agnes Baross, Sarah Barber, Mabel
+            Brown-John, Steve S. Chand, William Chow, Ryan Babakaiff, Dave
+            Wong, Corey Matsuo, Jaclyn Beland, Susan Gibson, Luis delRio, Ruth
+            Featherstone, Malachi Griffith, Obi Griffith, Ran Guin, Nancy Liao,
+            Kim MacDonald,  Mike R. Mayo, Josh Moran, Diana Palmquist, JR
+            Santos, Duane Smailus, Jeff Stott, Miranda Tsai, George Yang,
+            Jacquie Schein, Asim Siddiqui,Steven Jones, Rob Holt, Marco Marra.
+            
+            Clone distribution: MGC clone distribution information can be found
+            through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+            Series: IRBU Plate: 1 Row: F Column: 12.
+FEATURES             Location/Qualifiers
+     source          1..1460
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="MGC:103857 IMAGE:30915239"
+                     /tissue_type="Lung, PCR rescued clones"
+                     /clone_lib="NIH_MGC_273"
+                     /lab_host="DH10B"
+                     /note="Vector: pCR4 Topo TA with reversed insert"
+     gene            1..1460
+                     /gene="CDS1"
+                     /gene_synonym="CDS"
+                     /db_xref="GeneID:1040"
+                     /db_xref="HGNC:HGNC:1800"
+                     /db_xref="MIM:603548"
+     CDS             50..1435
+                     /gene="CDS1"
+                     /gene_synonym="CDS"
+                     /codon_start=1
+                     /product="CDP-diacylglycerol synthase (phosphatidate
+                     cytidylyltransferase) 1"
+                     /protein_id="AAH74881.1"
+                     /db_xref="GeneID:1040"
+                     /db_xref="HGNC:HGNC:1800"
+                     /db_xref="MIM:603548"
+                     /translation="MLELRHRGSCPGPREAVSPPHREGEAAGGDHETESTSDKETDID
+                     DRYGDLDSRTDSDIPEIPPSSDRTPEILKKALSGLSSRWKNWWIRGILTLTMISLFFL
+                     IIYMGSFMLMLLVLGIQVKCFHEIITIGYRVYHSYDLPWFRTLSWYFLLCVNYFFYGE
+                     TVADYFATFVQREEQLQFLIRYHRFISFALYLAGFCMFVLSLVKKHYRLQFYMFAWTH
+                     VTLLITVTQSHLVIQNLFEGMIWFLVPISSVICNDITAYLFGFFFGRTPLIKLSPKKT
+                     WEGFIGGFFSTVVFGFIAAYVLSKYQYFVCPVEYRSDVNSFVTECEPSELFQLQTYSL
+                     PPFLKAVLRQERVSLYPFQIHSIALSTFASLIGPFGGFFASGFKRAFKIKDFANTIPG
+                     HGGIMDRFDCQYLMATFVHVYITSFIRGPNPSKVLQQLLVLQPEQQLNIYKTLKTHLI
+                     EKGILQPTLKV"
+ORIGIN      
+        1 aggtttcggg gtgcttgagg aggccgccac ggcagcgcgg gagcggaaga tgttggagct
+       61 gaggcaccgg ggaagctgcc ccggccccag ggaagcggtg tcgccgccac accgcgaggg
+      121 agaggcggcc ggcggcgacc acgaaaccga gagcaccagc gacaaagaaa cagatattga
+      181 tgacagatat ggagatttgg attccagaac agattctgat attccggaaa ttccaccatc
+      241 ctcagataga acccctgaga ttctcaaaaa agctctatct ggtttatctt caaggtggaa
+      301 aaactggtgg atacgtggaa ttctcactct aactatgatc tcgttgtttt tcctgatcat
+      361 ctatatggga tccttcatgc tgatgcttct tgttctgggc atccaagtga aatgcttcca
+      421 tgaaattatc actataggtt atagagtcta tcattcttat gatctaccat ggtttagaac
+      481 actaagttgg tactttctat tgtgtgtaaa ctactttttc tatggagaga ctgtagctga
+      541 ttattttgct acatttgttc aaagagaaga acaacttcag ttcctcattc gctaccatag
+      601 atttatatca tttgccctct atctggcagg tttctgcatg tttgtactga gtttggtgaa
+      661 gaaacattat cgtctgcagt tttatatgtt cgcatggact catgtcactt tactgataac
+      721 tgtcactcag tcacaccttg tcatccaaaa tctgtttgaa ggcatgatat ggttccttgt
+      781 tccaatatca agtgttatct gcaatgacat aactgcttac ctttttggat ttttttttgg
+      841 gagaactcca ttaattaagt tgtctcctaa aaagacttgg gaaggattca ttggtggttt
+      901 cttttccaca gttgtgtttg gattcattgc tgcctatgtg ttatccaaat accagtactt
+      961 tgtctgccca gtggaatacc gaagtgatgt aaactccttc gtgacagaat gtgagccctc
+     1021 agaacttttc cagcttcaga cttactcact tccacccttt ctaaaggcag tcttgagaca
+     1081 ggaaagagtg agcttgtacc ctttccagat ccacagcatt gcactgtcaa cctttgcatc
+     1141 tttaattggc ccatttggag gcttctttgc tagtggattc aaaagagcct tcaaaatcaa
+     1201 ggattttgca aataccattc ctggacatgg tgggataatg gacagatttg attgtcagta
+     1261 tttgatggca acttttgtac atgtgtacat cacaagtttt ataaggggcc caaatcccag
+     1321 caaagtgcta cagcagttgt tggtgcttca acctgaacag cagttaaata tatataaaac
+     1381 cctgaagact catctcattg agaaaggaat cctacaaccc accttgaagg tataactgga
+     1441 tccagagagg gaaggactga
+//
+
+LOCUS       BC074833                1458 bp    mRNA    linear   PRI 15-JUL-2006
+DEFINITION  Homo sapiens CDP-diacylglycerol synthase (phosphatidate
+            cytidylyltransferase) 1, mRNA (cDNA clone MGC:104094
+            IMAGE:30915545), complete cds.
+ACCESSION   BC074833
+VERSION     BC074833.2
+KEYWORDS    MGC.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1458)
+  AUTHORS   Strausberg,R.L., Feingold,E.A., Grouse,L.H., Derge,J.G.,
+            Klausner,R.D., Collins,F.S., Wagner,L., Shenmen,C.M., Schuler,G.D.,
+            Altschul,S.F., Zeeberg,B., Buetow,K.H., Schaefer,C.F., Bhat,N.K.,
+            Hopkins,R.F., Jordan,H., Moore,T., Max,S.I., Wang,J., Hsieh,F.,
+            Diatchenko,L., Marusina,K., Farmer,A.A., Rubin,G.M., Hong,L.,
+            Stapleton,M., Soares,M.B., Bonaldo,M.F., Casavant,T.L.,
+            Scheetz,T.E., Brownstein,M.J., Usdin,T.B., Toshiyuki,S.,
+            Carninci,P., Prange,C., Raha,S.S., Loquellano,N.A., Peters,G.J.,
+            Abramson,R.D., Mullahy,S.J., Bosak,S.A., McEwan,P.J.,
+            McKernan,K.J., Malek,J.A., Gunaratne,P.H., Richards,S.,
+            Worley,K.C., Hale,S., Garcia,A.M., Gay,L.J., Hulyk,S.W.,
+            Villalon,D.K., Muzny,D.M., Sodergren,E.J., Lu,X., Gibbs,R.A.,
+            Fahey,J., Helton,E., Ketteman,M., Madan,A., Rodrigues,S.,
+            Sanchez,A., Whiting,M., Madan,A., Young,A.C., Shevchenko,Y.,
+            Bouffard,G.G., Blakesley,R.W., Touchman,J.W., Green,E.D.,
+            Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J., Myers,R.M.,
+            Butterfield,Y.S., Krzywinski,M.I., Skalska,U., Smailus,D.E.,
+            Schnerch,A., Schein,J.E., Jones,S.J. and Marra,M.A.
+  CONSRTM   Mammalian Gene Collection Program Team
+  TITLE     Generation and initial analysis of more than 15,000 full-length
+            human and mouse cDNA sequences
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (26), 16899-16903 (2002)
+   PUBMED   12477932
+REFERENCE   2  (bases 1 to 1458)
+  CONSRTM   NIH MGC Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-2004) National Institutes of Health, Mammalian
+            Gene Collection (MGC), Bethesda, MD 20892-2590, USA
+  REMARK    NIH-MGC Project URL: http://mgc.nci.nih.gov
+COMMENT     On Aug 4, 2004 this sequence version replaced BC074833.1.
+            Contact: MGC help desk
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: Genome Sequence Centre, British Columbia Cancer
+            Center
+            cDNA Library Preparation: British Columbia Cancer Research Center
+            cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+            DNA Sequencing by: Genome Sequence Centre,
+            BC Cancer Agency, Vancouver, BC, Canada
+            info@bcgsc.bc.ca
+            Martin Hirst, Thomas Zeng, Ryan Morin, Michelle Moksa, Johnson
+            Pang, Diana Mah, Jing Wang, Kieth Fichter, Eric Chuah, Allen
+            Delaney, Rob Kirkpatrick, Agnes Baross, Sarah Barber, Mabel
+            Brown-John, Steve S. Chand, William Chow, Ryan Babakaiff, Dave
+            Wong, Corey Matsuo, Jaclyn Beland, Susan Gibson, Luis delRio, Ruth
+            Featherstone, Malachi Griffith, Obi Griffith, Ran Guin, Nancy Liao,
+            Kim MacDonald,  Mike R. Mayo, Josh Moran, Diana Palmquist, JR
+            Santos, Duane Smailus, Jeff Stott, Miranda Tsai, George Yang,
+            Jacquie Schein, Asim Siddiqui,Steven Jones, Rob Holt, Marco Marra.
+            
+            Clone distribution: MGC clone distribution information can be found
+            through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+            Series: IRBU Plate: 4 Row: H Column: 6.
+FEATURES             Location/Qualifiers
+     source          1..1458
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="MGC:104094 IMAGE:30915545"
+                     /tissue_type="Lung, PCR rescued clones"
+                     /clone_lib="NIH_MGC_265"
+                     /lab_host="DH10B"
+                     /note="Vector: pCR4 Topo TA"
+     gene            1..1458
+                     /gene="CDS1"
+                     /gene_synonym="CDS"
+                     /db_xref="GeneID:1040"
+                     /db_xref="HGNC:HGNC:1800"
+                     /db_xref="MIM:603548"
+     CDS             50..1435
+                     /gene="CDS1"
+                     /gene_synonym="CDS"
+                     /codon_start=1
+                     /product="CDP-diacylglycerol synthase (phosphatidate
+                     cytidylyltransferase) 1"
+                     /protein_id="AAH74833.1"
+                     /db_xref="GeneID:1040"
+                     /db_xref="HGNC:HGNC:1800"
+                     /db_xref="MIM:603548"
+                     /translation="MLELRHRGSCPGPREAVSPPHREGEAAGGDHETESTSDKETDID
+                     DRYGDLDSRTDSDIPEIPPSSDRTPEILKKALSGLSSRWKNWWIRGILTLTMISLFFL
+                     IIYMGSFMLMLLVLGIQVKCFHEIITIGYRVYHSYDLPWFRTLSWYFLLCVNYFFYGE
+                     TVADYFATFVQREEQLQFLIRYHRFISFALYLAGFCMFVLSLVKKHYRLQFYMFAWTH
+                     VTLLITVTQSHLVIQNLFEGMIWFLVPISSVICNDITAYLFGFFFGRTPLIKLSPKKT
+                     WEGFIGGFFSTVVFGFIAAYVLSKYQYFVCPVEYRSDVNSFVTECEPSELFQLQTYSL
+                     PPFLKAVLRQERVSLYPFQIHSIALSTFASLIGPFGGFFASGFKRAFKIKDFANTIPG
+                     HGGIMDRFDCQYLMATFVHVYITSFIRGPNPSKVLQQLLVLQPEQQLNIYKTLKTHLI
+                     EKGILQPTLKV"
+ORIGIN      
+        1 aggtttcggg gtgcttgagg aggccgccac ggcagcgcgg gagcggaaga tgttggagct
+       61 gaggcaccgg ggaagctgcc ccggccccag ggaagcggtg tcgccgccac accgcgaggg
+      121 agaggcggcc ggcggcgacc acgaaaccga gagcaccagc gacaaagaaa cagatattga
+      181 tgacagatat ggagatttgg attccagaac agattctgat attccggaaa ttccaccatc
+      241 ctcagataga acccctgaga ttctcaaaaa agctctatct ggtttatctt caaggtggaa
+      301 aaactggtgg atacgtggaa ttctcactct aactatgatc tcgttgtttt tcctgatcat
+      361 ctatatggga tccttcatgc tgatgcttct tgttctgggc atccaagtga aatgcttcca
+      421 tgaaattatc actataggtt atagagtcta tcattcttat gatctaccat ggtttagaac
+      481 actaagttgg tactttctat tgtgtgtaaa ctactttttc tatggagaga ctgtagctga
+      541 ttattttgct acatttgttc aaagagaaga acaacttcag ttcctcattc gctaccatag
+      601 atttatatca tttgccctct atctggcagg tttctgcatg tttgtactga gtttggtgaa
+      661 gaaacattat cgtctgcagt tttatatgtt cgcatggact catgtcactt tactgataac
+      721 tgtcactcag tcacaccttg tcatccaaaa tctgtttgaa ggcatgatat ggttccttgt
+      781 tccaatatca agtgttatct gcaatgacat aactgcttac ctttttggat ttttttttgg
+      841 gagaactcca ttaattaagt tgtctcctaa aaagacttgg gaaggattca ttggtggttt
+      901 cttttccaca gttgtgtttg gattcattgc tgcctatgtg ttatccaaat accagtactt
+      961 tgtctgccca gtggaatacc gaagtgatgt aaactccttc gtgacagaat gtgagccctc
+     1021 agaacttttc cagcttcaga cttactcact tccacccttt ctaaaggcag tcttgagaca
+     1081 ggaaagagtg agcttgtacc ctttccagat ccacagcatt gcactgtcaa cctttgcatc
+     1141 tttaattggc ccatttggag gcttctttgc tagtggattc aaaagagcct tcaaaatcaa
+     1201 ggattttgca aataccattc ctggacatgg tgggataatg gacagatttg attgtcagta
+     1261 tttgatggca acttttgtac atgtgtacat cacaagtttt ataaggggcc caaatcccag
+     1321 caaagtgcta cagcagttgt tggtgcttca acctgaacag cagttaaata tatataaaac
+     1381 cctgaagact catctcattg agaaaggaat cctacaaccc accttgaagg tataactgga
+     1441 tccagagagg gaaggact
+//
+
+LOCUS       BC021958                1464 bp    mRNA    linear   PRI 15-JUL-2006
+DEFINITION  Homo sapiens abhydrolase domain containing 5, mRNA (cDNA clone
+            MGC:8731 IMAGE:3920855), complete cds.
+ACCESSION   BC021958
+VERSION     BC021958.1
+KEYWORDS    MGC.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1464)
+  AUTHORS   Strausberg,R.L., Feingold,E.A., Grouse,L.H., Derge,J.G.,
+            Klausner,R.D., Collins,F.S., Wagner,L., Shenmen,C.M., Schuler,G.D.,
+            Altschul,S.F., Zeeberg,B., Buetow,K.H., Schaefer,C.F., Bhat,N.K.,
+            Hopkins,R.F., Jordan,H., Moore,T., Max,S.I., Wang,J., Hsieh,F.,
+            Diatchenko,L., Marusina,K., Farmer,A.A., Rubin,G.M., Hong,L.,
+            Stapleton,M., Soares,M.B., Bonaldo,M.F., Casavant,T.L.,
+            Scheetz,T.E., Brownstein,M.J., Usdin,T.B., Toshiyuki,S.,
+            Carninci,P., Prange,C., Raha,S.S., Loquellano,N.A., Peters,G.J.,
+            Abramson,R.D., Mullahy,S.J., Bosak,S.A., McEwan,P.J.,
+            McKernan,K.J., Malek,J.A., Gunaratne,P.H., Richards,S.,
+            Worley,K.C., Hale,S., Garcia,A.M., Gay,L.J., Hulyk,S.W.,
+            Villalon,D.K., Muzny,D.M., Sodergren,E.J., Lu,X., Gibbs,R.A.,
+            Fahey,J., Helton,E., Ketteman,M., Madan,A., Rodrigues,S.,
+            Sanchez,A., Whiting,M., Madan,A., Young,A.C., Shevchenko,Y.,
+            Bouffard,G.G., Blakesley,R.W., Touchman,J.W., Green,E.D.,
+            Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J., Myers,R.M.,
+            Butterfield,Y.S., Krzywinski,M.I., Skalska,U., Smailus,D.E.,
+            Schnerch,A., Schein,J.E., Jones,S.J. and Marra,M.A.
+  CONSRTM   Mammalian Gene Collection Program Team
+  TITLE     Generation and initial analysis of more than 15,000 full-length
+            human and mouse cDNA sequences
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (26), 16899-16903 (2002)
+   PUBMED   12477932
+REFERENCE   2  (bases 1 to 1464)
+  CONSRTM   NIH MGC Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2002) National Institutes of Health, Mammalian
+            Gene Collection (MGC), Bethesda, MD 20892-2590, USA
+  REMARK    NIH-MGC Project URL: http://mgc.nci.nih.gov
+COMMENT     Contact: MGC help desk
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: ATCC/DCTD/DTP
+            cDNA Library Preparation: Life Technologies, Inc.
+            cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+            DNA Sequencing by: Genome Sequence Centre,
+            BC Cancer Agency, Vancouver, BC, Canada
+            info@bcgsc.bc.ca
+            Martin Hirst, Thomas Zeng, Ryan Morin, Michelle Moksa, Johnson
+            Pang, Diana Mah, Jing Wang, Kieth Fichter, Eric Chuah, Allen
+            Delaney, Rob Kirkpatrick, Agnes Baross, Sarah Barber, Mabel
+            Brown-John, Steve S. Chand, William Chow, Ryan Babakaiff, Dave
+            Wong, Corey Matsuo, Jaclyn Beland, Susan Gibson, Luis delRio, Ruth
+            Featherstone, Malachi Griffith, Obi Griffith, Ran Guin, Nancy Liao,
+            Kim MacDonald,  Mike R. Mayo, Josh Moran, Diana Palmquist, JR
+            Santos, Duane Smailus, Jeff Stott, Miranda Tsai, George Yang,
+            Jacquie Schein, Asim Siddiqui,Steven Jones, Rob Holt, Marco Marra.
+            
+            Clone distribution: MGC clone distribution information can be found
+            through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+            Series: IRAK Plate: 15 Row: m Column: 19.
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="MGC:8731 IMAGE:3920855"
+                     /tissue_type="Skin, melanotic melanoma."
+                     /clone_lib="NIH_MGC_72"
+                     /lab_host="DH10B"
+                     /note="Vector: pCMV-SPORT6"
+     gene            1..1464
+                     /gene="ABHD5"
+                     /gene_synonym="CDS"
+                     /gene_synonym="CGI58"
+                     /gene_synonym="IECN2"
+                     /gene_synonym="MGC8731"
+                     /gene_synonym="NCIE2"
+                     /db_xref="GeneID:51099"
+                     /db_xref="HGNC:HGNC:21396"
+                     /db_xref="MIM:604780"
+     CDS             39..1088
+                     /gene="ABHD5"
+                     /gene_synonym="CDS"
+                     /gene_synonym="CGI58"
+                     /gene_synonym="IECN2"
+                     /gene_synonym="MGC8731"
+                     /gene_synonym="NCIE2"
+                     /codon_start=1
+                     /product="abhydrolase domain containing 5"
+                     /protein_id="AAH21958.1"
+                     /db_xref="GeneID:51099"
+                     /db_xref="HGNC:HGNC:21396"
+                     /db_xref="MIM:604780"
+                     /translation="MAAEEEEVDSADTGERSGWLTGWLPTWCPTSISHLKEAEEKMLK
+                     CVPCTYKKEPVRISNGNKIWTLKFSHNISNKTPLVLLHGFGGGLGLWALNFGDLCTNR
+                     PVYAFDLLGFGRSSRPRFDSDAEEVENQFVESIEEWRCALGLDKMILLGHNLGGFLAA
+                     AYSLKYPSRVNHLILVEPWGFPERPDLADQDRPIPVWIRALGAALTPFNPLAGLRIAG
+                     PFGLSLVQRLRPDFKRKYSSMFEDDTVTEYIYHCNVQTPSGETAFKNMTIPYGWAKRP
+                     MLQRIGKMHPDIPVSVIFGARSCIDGNSGTSIQSLRPHSYVKTIAILGAGHYVYADQP
+                     EEFNQKVKEICDTVD"
+ORIGIN      
+        1 gcttcgagat aagtcccggc gcttgcgcgg cggcggctat ggcggcggag gaggaggagg
+       61 tggactctgc cgacaccgga gagaggtcag gatggctaac tggttggctc cccacatggt
+      121 gccctacgtc tatatcacac cttaaagaag ctgaagagaa gatgttaaaa tgtgtgcctt
+      181 gcacatacaa aaaagaacct gttcgtatat ctaatggaaa taaaatatgg acactgaagt
+      241 tctctcataa tatttcaaat aagactccac ttgtccttct ccatggtttt ggaggaggtc
+      301 ttgggctctg ggcactgaat tttggagatc tttgcaccaa cagacctgtc tatgcttttg
+      361 acctattggg ttttggacga agtagtagac ccaggtttga cagtgatgca gaagaagtgg
+      421 agaatcagtt tgtggaatcc attgaagagt ggagatgtgc cctaggattg gacaaaatga
+      481 tcttgcttgg gcacaaccta ggtggattct tggctgctgc ttactcgctg aagtacccat
+      541 caagggttaa tcatctcatt ttagtggagc cttggggttt ccctgaacga ccagaccttg
+      601 ctgatcaaga cagaccaatt ccagtttgga tcagagcctt gggagcagca ttgactccct
+      661 ttaacccttt agctggccta aggattgcag gaccctttgg tttaagtcta gtgcagcgtt
+      721 taaggcctga tttcaaacga aagtattctt caatgttcga agacgatact gtgacagaat
+      781 acatctacca ctgtaatgtg cagactccaa gtggtgagac agctttcaag aatatgacta
+      841 ttccttatgg atgggcaaaa aggccaatgc tccagcgaat tggtaaaatg caccctgaca
+      901 ttccagtttc agtgatcttt ggcgcccgat cctgcataga tggcaattct ggcaccagca
+      961 tccagtcctt acgaccacat tcatatgtga agacaatagc tattcttggg gcaggacatt
+     1021 atgtatatgc agatcaacca gaagaattca accagaaagt aaaggagatc tgcgacactg
+     1081 tggactgaac acactgaagc tctgatggga aaacctggtg actgatatag ttgttcagca
+     1141 ataattcata gtctgtgatg aagagtagtg aatacaacac acaaccaggc agccttcttg
+     1201 actatacttt gcacatgttt tctttaggaa ttcactcaca catttaaacc agttagtgcc
+     1261 ttctagaaga atggctttcc tttctcctac acaaaattga aatatacaag tctctaaata
+     1321 taataccttt aaataaaagg ttatttgtcc ctctgaaaaa aaaaaaaaaa aaaaaaaaaa
+     1381 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+     1441 aaaaaaaaaa aaaaaaaaaa aaaa
+//
+
+LOCUS       AH002989                2802 bp    DNA     linear   PRI 10-JUN-2016
+DEFINITION  Homo sapiens pp60 c-src-1 protein (SRC) gene, complete cds.
+ACCESSION   AH002989 K03212 K03213 K03214 K03215 K03216 K03217 K03218 M16237
+            M16243 M16244 M16245
+VERSION     AH002989.2
+KEYWORDS    c-myc proto-oncogene; proto-oncogene; src gene; src oncogene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 2052 to 2196; 2311 to 2442; 2557 to 2802)
+  AUTHORS   Parker,R.C., Mardon,G., Lebo,R.V., Varmus,H.E. and Bishop,J.M.
+  TITLE     Isolation of duplicated human c-src genes located on chromosomes 1
+            and 20
+  JOURNAL   Mol. Cell. Biol. 5 (4), 831-838 (1985)
+   PUBMED   2581127
+REFERENCE   2  (bases 1018 to 1181; 1282 to 1451; 1552 to 1745; 1846 to 1936;
+            2037 to 2201; 2302 to 2447; 2548 to 2802)
+  AUTHORS   Anderson,S.K., Gibbs,C.P., Tanaka,A., Kung,H.J. and Fujita,D.J.
+  TITLE     Human cellular src gene: nucleotide sequence and derived amino acid
+            sequence of the region coding for the carboxy-terminal two-thirds
+            of pp60c-src
+  JOURNAL   Mol. Cell. Biol. 5 (5), 1122-1129 (1985)
+   PUBMED   2582238
+REFERENCE   3  (bases 1 to 2802)
+  AUTHORS   Tanaka,A., Gibbs,C.P., Arthur,R.R., Anderson,S.K., Kung,H.J. and
+            Fujita,D.J.
+  TITLE     DNA sequence encoding the amino-terminal region of the human c-src
+            protein: implications of sequence divergence among src-type kinase
+            oncogenes
+  JOURNAL   Mol. Cell. Biol. 7 (5), 1978-1983 (1987)
+   PUBMED   3299057
+COMMENT     On or before Jun 10, 2016 this sequence version replaced M16237.1,
+            M16243.1, M16244.1, M16245.1, K03212.1, K03213.1, K03214.1,
+            K03215.1, K03216.1, K03217.1, K03218.1, AH002989.1.
+FEATURES             Location/Qualifiers
+     source          1..2802
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="20q11.2-q13"
+     intron          <1..7
+                     /note="c-src-1 mRNA intron A"
+     gene            12..2765
+                     /gene="SRC"
+     CDS             join(12..261,382..481,599..697,810..913,1027..1176,
+                     1291..1446,1561..1740,1855..1931,2043..2196,2311..2442,
+                     2557..2765)
+                     /gene="SRC"
+                     /note="pp60 c-src-1 protein"
+                     /codon_start=1
+                     /protein_id="AAA60584.1"
+                     /translation="MGSNKSKPKDASQRRRSLEPAENVHGAGGGAFPASQTPSKPASA
+                     DGHRGPSAAFAPAAAEPKLFGGFNSSDTVTSPQRAGPLAGGVTTFVALYDYESRTETD
+                     LSFKKGERLQIVNNTEGDWWLAHSLSTGQTGYIPSNYVAPSDSIQAEEWYFGKITRRE
+                     SERLLLNAENPRGTFLVRESETTKGAYCLSVSDFDNAKGLNVKHYKIRKLDSGGFYIT
+                     SRTQFNSLQQLVAYYSKHADGLCHRLTTVCPTSKPQTQGLAKDAWEIPRESLRLEVKL
+                     GQGCFGEVWMGTWNGTTRVAIKTLKPGTMSPEAFLQEAQVMKKLRHEKLVQLYAVVSE
+                     EPIYIVTEYMSKGSLLDFLKGETGKYLRLPQLVDMAAQIASGMAYVERMNYVHRDLRA
+                     ANILVGENLVCKVADFGLARLIEDNEYTARQGAKFPIKWTAPEAALYGRFTIKSDVWS
+                     FGILLTELTTKGRVPYPGMVNREVLDQVERGYRMPCPPECPESLHDLMCQCWRKEPEE
+                     RPTFEYLQAFLEDYFTSTEPQYQPGENL"
+     exon            <12..261
+                     /gene="SRC"
+                     /note="pp60 c-src-1 protein, (first expressed exon);
+                     G00-120-750"
+                     /number=2
+     intron          262..>271
+                     /gene="SRC"
+                     /note="c-src-1 cds intron B"
+     gap             272..371
+                     /estimated_length=unknown
+     intron          <372..381
+                     /gene="SRC"
+                     /note="c-src-1 cds intron B"
+     exon            382..481
+                     /gene="SRC"
+                     /note="G00-120-750"
+                     /number=3
+     intron          482..>489
+                     /gene="SRC"
+                     /note="c-src-1 cds intron C"
+     gap             490..589
+                     /estimated_length=unknown
+     intron          <590..598
+                     /gene="SRC"
+                     /note="c-src-1 cds intron C"
+     exon            599..697
+                     /gene="SRC"
+                     /note="G00-120-750"
+                     /number=4
+     intron          698..>702
+                     /gene="SRC"
+                     /note="c-src-1 cds intron D"
+     gap             703..802
+                     /estimated_length=unknown
+     intron          <803..809
+                     /gene="SRC"
+                     /note="c-src-1 cds intron D"
+     exon            810..913
+                     /gene="SRC"
+                     /note="G00-120-750"
+                     /number=5
+     intron          914..>917
+                     /gene="SRC"
+                     /note="c-src-1 cds intron E"
+     gap             918..1017
+                     /estimated_length=unknown
+     intron          <1018..1026
+                     /gene="SRC"
+                     /note="c-src-1 cds intron E"
+     exon            1027..1176
+                     /gene="SRC"
+                     /note="G00-120-750"
+                     /number=6
+     intron          1177..>1181
+                     /gene="SRC"
+                     /note="c-src-1 cds intron F"
+     gap             1182..1281
+                     /estimated_length=unknown
+     intron          <1282..1290
+                     /gene="SRC"
+                     /note="c-src-1 introm F"
+     exon            1291..1446
+                     /gene="SRC"
+                     /note="G00-120-750"
+                     /number=7
+     intron          1447..>1451
+                     /gene="SRC"
+                     /note="c-src-1 intron G"
+     gap             1452..1551
+                     /estimated_length=unknown
+     intron          <1552..1560
+                     /gene="SRC"
+                     /note="c-src-1 cds intron G"
+     exon            1561..1740
+                     /gene="SRC"
+                     /note="G00-120-750"
+                     /number=8
+     intron          1741..>1745
+                     /gene="SRC"
+                     /note="c-src-1 cds intron H"
+     gap             1746..1845
+                     /estimated_length=unknown
+     intron          <1846..1854
+                     /gene="SRC"
+                     /note="c-src-1 cds intron H"
+     exon            1855..1931
+                     /gene="SRC"
+                     /note="G00-120-750"
+                     /number=9
+     intron          1932..>1936
+                     /gene="SRC"
+                     /note="c-src-1 cds intron I"
+     gap             1937..2036
+                     /estimated_length=unknown
+     intron          <2037..2042
+                     /gene="SRC"
+                     /note="c-src-1 cds intron I"
+     exon            2043..2196
+                     /gene="SRC"
+                     /note="G00-120-750"
+                     /number=10
+     intron          2197..>2201
+                     /gene="SRC"
+                     /note="c-src-1 cds intron J"
+     gap             2202..2301
+                     /estimated_length=unknown
+     intron          <2302..2310
+                     /gene="SRC"
+                     /note="c-src-1 cds intron J"
+     exon            2311..2442
+                     /gene="SRC"
+                     /note="G00-120-750"
+                     /number=11
+     intron          2443..>2447
+                     /gene="SRC"
+                     /note="c-src-1 cds intron K"
+     gap             2448..2547
+                     /estimated_length=unknown
+     intron          <2548..2556
+                     /gene="SRC"
+                     /note="c-src-1 cds intron K"
+     exon            2557..>2765
+                     /gene="SRC"
+                     /note="pp60 c-src-1 protein; G00-120-750"
+                     /number=12
+ORIGIN      Chromosome 20q12-q13; 10 bp upstream of NcoI site.
+        1 ctgccaggac catgggtagc aacaagagca agcccaagga tgccagccag cggcgccgca
+       61 gcctggagcc cgccgagaac gtgcacggcg ctggcggggg cgctttcccc gcctcgcaga
+      121 cccccagcaa gccagcctcg gccgacggcc accgcggccc cagcgcggcc ttcgcccccg
+      181 cggccgccga gcccaagctg ttcggaggct tcaactcctc ggacaccgtc acctccccgc
+      241 agagggcggg cccgctggcc ggtcagtgcg cnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      301 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      361 nnnnnnnnnn nctctctgca ggtggagtga ccacctttgt ggccctctat gactatgagt
+      421 ctaggacgga gacagacctg tccttcaaga aaggcgagcg gctccagatt gtcaacaaca
+      481 cgtgagtgcn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      541 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnc ctgctcagag
+      601 agggagactg gtggctggcc cactcgctca gcacaggaca gacaggctac atccccagca
+      661 actacgtggc gccctccgac tccatccagg ctgaggagtt agnnnnnnnn nnnnnnnnnn
+      721 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      781 nnnnnnnnnn nnnnnnnnnn nncccccagg tggtattttg gcaagatcac cagacgggag
+      841 tcagagcggt tactgctcaa tgcagagaac ccgagaggga ccttcctcgt gcgagaaagt
+      901 gagaccacga aaggtacnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      961 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnngcc
+     1021 ccgcaggtgc ctactgcctc tcagtgtctg acttcgacaa cgccaagggc ctcaacgtga
+     1081 agcactacaa gatccgcaag ctggacagcg gcggcttcta catcacctcc cgcacccagt
+     1141 tcaacagcct gcagcagctg gtggcctact actccagtga gnnnnnnnnn nnnnnnnnnn
+     1201 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1261 nnnnnnnnnn nnnnnnnnnn ncctcctcag aacacgccga tggcctgtgc caccgcctca
+     1321 ccaccgtgtg ccccacgtcc aagccgcaga ctcagggcct ggccaaggat gcctgggaga
+     1381 tccctcggga gtcgctgcgg ctggaggtca agctgggcca gggctgcttt ggcgaggtgt
+     1441 ggatgggtaa gnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1501 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn ncctcaacag
+     1561 ggacctggaa cggtaccacc agggtggcca tcaaaaccct gaagcctggc acgatgtctc
+     1621 cagaggcctt cctgcaggag gcccaggtca tgaagaagct gaggcatgag aagctggtgc
+     1681 agttgtatgc tgtggtttca gaggagccca tttacatcgt cacggagtac atgagcaagg
+     1741 gtgagnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1801 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnntctgc ccagggagtt
+     1861 tgctggactt tctcaagggg gagacaggca agtacctgcg gctgcctcag ctggtggaca
+     1921 tggctgctca ggtgagnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1981 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnctgc
+     2041 agatcgcctc aggcatggcg tacgtggagc ggatgaacta cgtccaccgg gaccttcgtg
+     2101 cagccaacat cctggtggga gagaacctgg tgtgcaaagt ggccgacttt gggctggctc
+     2161 ggctcattga agacaatgag tacacggcgc ggcaaggtgg gnnnnnnnnn nnnnnnnnnn
+     2221 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2281 nnnnnnnnnn nnnnnnnnnn nttcctgcag gtgccaaatt ccccatcaag tggacggctc
+     2341 cagaagctgc cctctatggc cgcttcacca tcaagtcgga cgtgtggtcc ttcgggatcc
+     2401 tgctgactga gctcaccaca aagggacggg tgccctaccc tggtaagnnn nnnnnnnnnn
+     2461 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2521 nnnnnnnnnn nnnnnnnnnn nnnnnnnctg ccacagggat ggtgaaccgc gaggtgctgg
+     2581 accaggtgga gcggggctac cggatgccct gcccgccgga gtgtcccgag tccctgcacg
+     2641 acctcatgtg ccagtgctgg cggaaggagc ctgaggagcg gcccaccttc gagtacctgc
+     2701 aggccttcct ggaggactac ttcacgtcca ccgagcccca gtaccagccc ggggagaacc
+     2761 tctaggcaca ggcgggccca gaccggcttc tcggcttgga tc
+//
+

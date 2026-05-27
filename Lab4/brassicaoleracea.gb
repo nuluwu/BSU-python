@@ -1,0 +1,696 @@
+LOCUS       AF180356                6639 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Brassica oleracea isolate B265 EIF4A protein (EIF4A) gene, partial
+            cds; putative protein gene, complete cds; and casein kinase I-like
+            protein (CK1b) gene, partial cds.
+ACCESSION   AF180356
+VERSION     AF180356.1
+KEYWORDS    .
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 6639)
+  AUTHORS   Quiros,C.F., Grellet,F., Wrobleski,T. and Sadowski,J.
+  TITLE     Microsyntenic changes of the ABI-RPS2-CK1 chromosome segment and
+            related regions distinguishing the Arabidopsis from the Brassica
+            oleracea genome
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 6639)
+  AUTHORS   Wroblewski,T., Sadowski,J., Grellet,F. and Quiros,C.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-AUG-1999) Vegetable Crops, U. of California, 1
+            Shields, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..6639
+                     /organism="Brassica oleracea"
+                     /mol_type="genomic DNA"
+                     /isolate="B265"
+                     /db_xref="taxon:3712"
+                     /note="common name: purple cauliflower"
+     gene            <1..>1360
+                     /gene="EIF4A"
+     mRNA            <294..>1360
+                     /gene="EIF4A"
+                     /product="EIF4A protein"
+     CDS             <294..1360
+                     /gene="EIF4A"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="similar to Arabidopsis thaliana eukaryotic
+                     translation initiation factor eIF-4A"
+                     /codon_start=3
+                     /product="EIF4A protein"
+                     /protein_id="AAF19805.1"
+                     /translation="FEKPSAIQQRGIIPFCKGLDVIQQAQSGTGKTATFCSGVLQQLD
+                     YTLVQCQALVLAPTRELAQQIEKVMRALGDYLGVKVHACVGGTSVREDQRILQSGVHV
+                     VVGTPGRVFDMLRRQSLRADAIKMFVLDEADEMLSRGFKDQIYDIFQLLPSKVQVGVF
+                     SATMPPEALEITRKFMNKPVRILVKRDELTLEGIKQFYVNVDKEEWKLETLCDLYETL
+                     AITQSVIFVNTRRKVDWLTDKMRSRDHTVSATHGDMDQNTRDIIMREFRSGSSRVLIT
+                     TDLLARGIDVQQVSLVINFDLPTQPENYLHRIGRSGRFGRKGVAINFMTTDDERMLSD
+                     IQKFYNVVVEELPSNVADLL"
+     mRNA            <2060..>2437
+                     /product="putative protein"
+     CDS             2060..2437
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="similarity to hypothetical proteins of Arabidopsis
+                     thaliana"
+                     /codon_start=1
+                     /product="putative protein"
+                     /protein_id="AAF19806.1"
+                     /translation="MLKSKSCREEMRSSSIAYKYHCLTNGGTPEAVAAPSPTNPQLPV
+                     MLRSYSTSTYSPHKNPTTVRDNPNSKSNGKVKKGLKEAEIQRKKRVAAYNVYGVEGKV
+                     KGSIRKNFKWFKETCSNAVNGLW"
+     gene            complement(3194..>6639)
+                     /gene="CK1b"
+     mRNA            complement(join(<3194..3472,3648..3784,3904..3967,
+                     4049..4128,4244..4370,4451..4535,4624..4687,4762..4823,
+                     5436..5503,5584..5679,5773..5921,6014..>6083))
+                     /gene="CK1b"
+                     /product="casein kinase I-like protein"
+     CDS             complement(join(3194..3472,3648..3784,3904..3967,
+                     4049..4128,4244..4370,4451..4535,4624..4687,4762..4823,
+                     5436..5503,5584..5679,5773..5921,6014..>6083))
+                     /gene="CK1b"
+                     /note="strong similarity to Arabidopsis thaliana casein
+                     kinase 1"
+                     /codon_start=1
+                     /product="casein kinase I-like protein"
+                     /protein_id="AAF19807.1"
+                     /translation="ENVKTKHPQLLYESKLYKVLQGGTGVPNIKWYGVEGEYNVLVID
+                     LLGPSLEDLFNFCSRKLSLKTVLMLADQMINRIEFVHQRSFLHRDIKPDNFLMGLGRR
+                     ANQVYIIDFGLAKKYRDSNHQHIPYRENKNLTGTARYASMNTHLGIEQSRRDDLESLG
+                     FVLMYFLKGSLPWQGLKAGNKKQKYERISEKKVSTSIESLCRGYPSEFASYFHYCRSL
+                     RFDDKPDYAYLKRLFRDLFIREGFQFDYVFDWTILKYQQSQLSTPPRPNVPGVGQSSG
+                     LPPAIASAERPSGGEEARTSGWPSGNARRISGQIFNSGNLAKQKAPVSSDPAISKNVM
+                     LSSSSFLRATGSSRRAAVSGSREAAVPGTDSEPSNPQIIEAGTSSNPKIHGGRSSPIV
+                     SSENKKLSSPSRGNTSVMKNYESNLNKGIEGLHF"
+ORIGIN      
+        1 aagcttgctg cttgtactgg tgtggcgtgt acaacatgga gaaaggtggg agctaagaca
+       61 tggtggttca aaaggaaagg tccatggaag atggaggcgt tggagtgcac actaacaact
+      121 cagaatctgt ccaatggaat caaggatctt atatctctag caccaaaaaa aaccaaaaac
+      181 tgagaaaacc aaaccgaaat tcccaggcct agccactctt acacaaactc attgagcttc
+      241 tgtagtatag cttgtcataa agttttgtaa tcaaagtggt aacgtgattc caggttttga
+      301 gaagccatct gctattcagc agagagggat tattcccttc tgcaagggtc ttgatgtgat
+      361 ccagcaagct cagtctggaa ccggaaagac cgctaccttc tgctctggcg ttcttcagca
+      421 gcttgattac actctcgttc agtgccaagc tcttgtttta gctcccacca gagagctcgc
+      481 tcagcagatt gaaaaggtta tgagggctct tggtgactac ctcggtgtca aggttcacgc
+      541 ctgtgttggt ggaacaagtg tccgtgagga tcaacgcatt ctccagtctg gtgttcacgt
+      601 tgttgttgga acacctggtc gtgtcttcga catgttgcgt agacagtcac tccgcgctga
+      661 cgccatcaag atgtttgttc ttgatgaggc tgatgagatg ctctctcgtg gtttcaagga
+      721 tcagatatac gacatcttcc agcttctccc ttccaaggtt caggtcggtg tcttctccgc
+      781 cacaatgccg cctgaagctc tcgagatcac aaggaagttc atgaacaaac ccgtgaggat
+      841 ccttgtcaag cgtgacgagc tgactcttga aggtatcaag cagttttacg tcaacgttga
+      901 caaggaagag tggaagctgg agacgctttg tgatctctac gagacgctag ccatcactca
+      961 gagtgtcatc tttgtgaaca caaggcgtaa ggttgattgg ttaacggaca aaatgaggag
+     1021 ccgtgaccat actgtttcag ccacgcacgg agacatggac cagaacacga gagacatcat
+     1081 catgcgtgag ttcaggtctg gttcttcccg tgtactcatc accactgacc tccttgcacg
+     1141 tggtattgat gttcagcaag tgtctctggt gattaacttt gacctcccaa cccaacctga
+     1201 gaactacctt caccgtattg gaagaagtgg aaggtttggg aggaagggag tggcgatcaa
+     1261 cttcatgaca actgatgatg agaggatgtt gtcggatatt cagaagtttt acaatgtggt
+     1321 cgttgaagag ttgccaagca atgttgctga tcttctctga gtcctcctgt tgtggcggca
+     1381 tggtaatttc tttctttctt ttttaccgag taactgctga attttaccat cctttttacc
+     1441 gcagttttac tatgttttgt ttccagctta tttagagttt tttttggcaa aatgagaaga
+     1501 gaactcatct catgactttt tttttgtttt gttttgttgg gcattatgtt gaaaactttc
+     1561 tttttctttt taacgcgagt cgcaagtttc tatttttcta aatcatgttt tatttaattt
+     1621 ggtggagttt ccgagtttgg atgtgtgttt cggctaaagt aaaaaaacaa tatattctct
+     1681 cgaattcatg aatgaagaag caccggccat gtgtatattc agtgaacatt agatgagaaa
+     1741 atcttacaga attttcttag gaagaataaa cacacaaaca ctgtactagg tactctacta
+     1801 agtagtaatt aaactttttt tttttttttt tgcaacactt ggtaataatt aaactctaat
+     1861 aatatttttt ttaaattgat ctctagacat acacaagcat aattcatctt gaatataatg
+     1921 tacctgatct cccttctata tatatcctat attacataag ccaaaagtgt tattacaaga
+     1981 cacaaaaaga agaaagcatt tctccttttt ttcttccaaa aagcagaccc agcttcttga
+     2041 ggttgttgca agtgaagata tgttgaaatc aaagtcatgc agagaagaga tgagaagcag
+     2101 cagtatagcc tacaagtacc attgcttaac gaatggtgga acaccagaag cagtagcagc
+     2161 accaagccca acaaacccac agcttccagt gatgttgaga tcttatagca cgtcaactta
+     2221 tagtccacac aagaatccaa caacggttag agacaatccc aatagtaaat cgaatggtaa
+     2281 ggtgaagaaa gggttaaagg aggcagagat tcagaggaag aagagagtgg ctgcttataa
+     2341 cgtgtatggt gttgaaggga aagtgaaggg atctattaga aagaacttca agtggttcaa
+     2401 ggagacttgt tcaaatgctg tcaatggttt gtggtgatct gatagagaga tattcagcaa
+     2461 aagggaagag tagtaatcaa cgtacgatat ctgattgtat taagagtgat tttaggagtt
+     2521 tatcttgata ataagagcaa gagacacaag caagcaagtg tggtatcttc attgtactgt
+     2581 ttgtaaacta aaggataagt acataataaa tctgttgtct tttctttatc ggttcttcac
+     2641 tcttgtcatg atccaacaac aaatcttctc agtctctctt ctcttgcttc ttgtatcttt
+     2701 cagattccac ttttagcaaa ttcaatgtta tgatcgctgg taacaacaag aggttcaggc
+     2761 tggctgatac aagttatgat gaatttaatt gcattcgcta tatactccat tcatagattt
+     2821 gaagaattga aatatgacac aacatgtcct ctgagggtgc aacttggcat gacatacgca
+     2881 actctcatga ccagttttaa agaaaacagt acaattatcg cttacacttc aaatcccttt
+     2941 gagactcgaa attaactttg cagtaccaaa cgagacatac acaacagtct tttgactcct
+     3001 tgactcactt ctgagtttgt attcctctgg aatcacttct tccagagtct ttactttatc
+     3061 ttctgttatt tgagagtgct tacaagcaca atcaaagtct ccctccctct aaaacctggg
+     3121 gagggcctaa gaaaggtttt ctttggtctt taaatttaca aacatcattc actggtcagt
+     3181 gggtacccag cggctaaaag tgcagaccct cgatcccttt attaagattg gactcatagt
+     3241 tcttcataac tgaagtattt ccccttgatg gagatgatag cttcttgttc tcagatgaga
+     3301 ctataggtga gcttcgacca ccatgaatct ttgggttgga gcttgttcca gcttcaatga
+     3361 tttgagggtt tgatggctca gaatcagttc caggaactgc agcctcgcga ctaccggaga
+     3421 cagcagcacg tcttgatgac ccagttgcgc ggagaaagct agagctagat aactgtcaca
+     3481 aaaaacaact cggttactat ttcatattag gaacaaagaa tcctataaat caaattcagc
+     3541 ggccaaatct gtgtatacaa cccggcacac ataacgttat gttcatttat tcaaaacagg
+     3601 agctagaaaa aggatacctc taacctgggg taactttatg tactcaccat tacattttta
+     3661 gagattgcag gatcacttga aactggtgct ttttgtttag ctaagttgcc tgaattaaat
+     3721 atttgtccag aaatccgcct agcgtttcct gatggccagc cagaagttct agcttcctcg
+     3781 ccacctgcag tggaatcaaa gaacatatct aatagtcata ttcctgtaga accgaggatc
+     3841 atagtttaaa tgcctaacca cacatacaag aaactactca aaaatcaaaa tagatggaac
+     3901 aacctgatgg cctctcagca ctagcaatag cagggggaag gccagaactt tgcccaactc
+     3961 cagggacctg taacaaagct atgtacatta gcagaaatta agtagacaga tgaaatccga
+     4021 aaaaggaaaa aaacaacatg attcttacat tgggacgggg aggagtagaa agctgtgatt
+     4081 gctgatactt caagatagtc cagtcaaata cataatcaaa ctggaagcct gacatacgag
+     4141 cagaagataa cacaaattta aaccaacatg ttactacttt actggttcaa gttatatttg
+     4201 cttcaccaga ctagaaatta acaaagtgat cagagcacca gaccttcgcg aataaacagg
+     4261 tcacggaaaa gccgtttcag gtaggcatag tctggcttgt catcgaatct cagggaccgg
+     4321 caataatgga agtaagaagc aaattcagat ggatatcctc ggcataaaga ctaaaataag
+     4381 aaaaaaaata tatttaatca ttgttagacc acaggtatca ccaacacagg ccttgggtga
+     4441 taatttatac ctcaatagat gtcgatactt tcttttcact aatcctctca tacttttgct
+     4501 tcttattacc agctttcagt ccttgccaag gaagactgca ttcaatgggg aaagtaagcg
+     4561 agaggctgca ctataaataa ccgatagcaa catctcaaca tggaaggtaa gagagataca
+     4621 caccttcctt ttaaaaagta catgagaaca aatccaagtg actccaaatc atccctacgg
+     4681 ctttgttctg tgatacaagt gatcattgca attcagaatt acattgtcag aataattaga
+     4741 aagttaaatg aactggtata ccaatgccaa ggtgagtgtt catgctggcg tatctagcag
+     4801 ttccagttaa gtttttgttt tccctgtgat acacaagata ttaggattaa aattgctaag
+     4861 ctgatatatc atatactgca atcatcgaaa gggttactaa tcctagcaat taatcaaata
+     4921 attttcttac atactattgc agcttcacaa aaactggaaa aaaataaact aaatatcctc
+     4981 agtaagaggg ctatatatct actaaaacgg cagcaatacc ttattccaaa tgaaagaaca
+     5041 cctataaaac ctcttgtttt gtctctaaac atttatatac actaaaacaa gaataaagca
+     5101 atgattattc tcaaaaacaa gtaaaattcg cccctttttc tagatagggc aatagctaac
+     5161 agtaaacagg taaggtacat tcagacagta gaaagtattg taataaccac actgcagcct
+     5221 attgtaagca gacaagaaga ctccatcctt tcacagtgat atataacatt gaagaacctc
+     5281 aagttagaca acacaggcta gtagaaaacg aaagcaatcc caagcactag ctcaacccat
+     5341 tattcttatg atccaacaac tctagtccaa tactgtgagc acataagtat cagatgcaca
+     5401 ggctcaacaa ggaaaattac agggctgtgg caaacctgta cggaatatgc tgatgattcg
+     5461 agtctctgta cttcttcgct agaccaaagt cgatgatgta tacctatatt cggccagcat
+     5521 ttcgtttaac ggaaaactga ggtgaacaaa caaagcctaa aaacaaccct tttcaacacc
+     5581 tacctgattt gcgcgcctcc cgagacccat cagaaagttg tcaggcttga tgtcccggtg
+     5641 tagaaatgac ctctgatgaa caaattcaat gcgattgatc tgacaagggt aaaaaacata
+     5701 tgtcctaaat atttaggtac tatccttatt cagcatggga aaattatttg cagccaatag
+     5761 aagggatcct accatttgat cggcaagcat cagtacagtc tttagtgaga gtttcctact
+     5821 acagaaattg aatagatctt caaggctagg ccccaacaag tctatcacaa ggacgttata
+     5881 ttccccttca acaccatacc atttaatgtt tggaacgccg gctgaaaaaa aaagggaaag
+     5941 caacctctct tgaattagaa agaagaaacc acatactgca aaatgtaaac aagtacataa
+     6001 ctaaagtcct tacttcctcc ttgtaatact ttatataatt ttgattcata cagtaactga
+     6061 ggatgcttag ttttcacatt ttcctgagag aagaaaaaaa gcatgccaat cagaacatat
+     6121 acagcaagca cagcagtcac tctgataaat gtgtaaaaaa ttcagaacaa caaagacgca
+     6181 tgaaaacaaa aaaatgagga tttgattaat atcatatttg gcagtcggaa ccagcgcaaa
+     6241 caggtaacag aaagaagcat atttataaca tacaaccaac gttaacatgg tagctgtcag
+     6301 cctcataaat ttccatcttt agaccacaca acaagacatc tcaaaacctt caacaggatg
+     6361 gacccaacag ttgcatgtaa tgttgtcgtg ggctcttaag agctcattca gcattaaata
+     6421 aactatcttc ccaagaatca ataatacagt accagctctc agttctaaca aaaagaagta
+     6481 actgccttta tagctaaagg cagtgtatta gcctataaag tacattatat acctcctatg
+     6541 tttctatagt aatccatatt actgctttat ttcacattga atagctggtt ttcaatcatg
+     6601 ctataaactg aatatttgta gttttaacat tgaaagctt
+//
+
+LOCUS       AF180355               11725 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Brassica oleracea isolate B265 ABI1 protein (ABI1) gene, partial
+            cds; RPS2 protein (RPS2) and N-myristoyl transferase (N-MYR) genes,
+            complete cds; and CK1a protein (CK1a) gene, partial cds.
+ACCESSION   AF180355
+VERSION     AF180355.1
+KEYWORDS    .
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 11725)
+  AUTHORS   Wroblewski,T., Coulibaly,S., Sadowski,J. and Quiros,C.F.
+  TITLE     Variation and phylogenetic utility of the Arabidopsis thaliana Rps2
+            homolog in various species of the tribe Brassiceae
+  JOURNAL   Mol. Phylogenet. Evol. 16 (3), 440-448 (2000)
+   PUBMED   10991796
+REFERENCE   2  (bases 1 to 11725)
+  AUTHORS   Quiros,C.F., Grellet,F., Wrobleski,T. and Sadowski,J.
+  TITLE     Microsyntenic changes of the ABI-RPS2-CK1 chromosome segment and
+            related regions distinguishing the Arabidopsis from the Brassica
+            oleracea genome
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 11725)
+  AUTHORS   Wroblewski,T., Sadowski,J., Grellet,F. and Quiros,C.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-AUG-1999) Vegetable Crops, U. of California, 1
+            Shields, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..11725
+                     /organism="Brassica oleracea"
+                     /mol_type="genomic DNA"
+                     /isolate="B265"
+                     /db_xref="taxon:3712"
+                     /note="common name: purple cauliflower"
+     gene            complement(<1..>1551)
+                     /gene="ABI1"
+     mRNA            complement(<1..>1551)
+                     /gene="ABI1"
+                     /product="ABI1 protein"
+     CDS             complement(<1044..1551)
+                     /gene="ABI1"
+                     /note="similar to Arabidopsis thaliana ABI1"
+                     /codon_start=1
+                     /product="ABI1 protein"
+                     /protein_id="AAF19804.1"
+                     /translation="MEEVSPAVAMPFMPFPEQQMELAGIMLGKGYCNGQYSSQDLENG
+                     SCSVSGSRKVLTSRINSPNLNMKKESPSSSSSSSEIVVAGEEINGSDERSKKMISRTE
+                     SRSLFEFKSVPLYGVTSICGRRPEMEDAVSTIPRFLQSPTNSMLDGRFNPQTTAHFFG
+                     VYDGHGGSQ"
+     gene            <4998..>7721
+                     /gene="RPS2"
+     mRNA            <4998..>7721
+                     /gene="RPS2"
+                     /product="RPS2 protein"
+     CDS             4998..7721
+                     /gene="RPS2"
+                     /note="similar to Arabidopsis thaliana RPS2"
+                     /codon_start=1
+                     /product="RPS2 protein"
+                     /protein_id="AAF19803.1"
+                     /translation="MDCISSLVVGLAQALCESMNMAERRAGHKTDLKQAISDLETATG
+                     ELKAIRDDLNLRIQRDNLEGRSCTNRAREWLSAVQAAEVRTESILARFMRREQKKMMQ
+                     RRCLSCLGCAEYKLSKKVLGSLKSINELRQRSEDIQTDGGLIQETCTKIPTKSVVGIT
+                     TMMEQVWELLSEEEERGIIGVYGPGGVGKTTLMQSINNELITKGHQYDVLIWVTMSRE
+                     FGECTIQRAVGARLGLSWDEKETGEGRAFRIYRALKQRRFLLLLDDVWEEIDFEKTGV
+                     PRPDRENKCKIMFTTRFLALCSNIGAECKLRVEFLEKQHAWEFFCGKVGRRDFLESPL
+                     IRRHAENIVTKCGGLPLALITLGGAMAHRETEEEWIHANEVLNRFPAEMKGMDYVFAL
+                     LKFSYDNLESDLLRTCFLYCALFPEDHSIEIEQLVEYWVGEGFLISSHGVNTIYQGYF
+                     LVGDLKAACLVETGDEKTQVKMHNVVRSFALWMASEQGTYKELILVEPSMGLTEAPKT
+                     ERWRHTLVISLLDNRLQMLPENPICPNLTTLLLQQNSSLKKIPANFFMYMPVLRVLDL
+                     SFTSITEIPLSIKYLVELYHLALSGTKISVLPQELRNLRMLKHLDLQRTQFLQTIPRD
+                     AICWLSKLEVLNLYYSYAGWELQSYGEDEEEELGFADLEHLENLTTLGITVLSLESLK
+                     TLYEFDVLHKCIQHLHVEECNGLPHFDLSSLSNHGGNIRRLSIKSCNDLEYLITPTDV
+                     DWLPSLEVLTVHSLHKLSRVWGNSVSQESLRNIRCINISHCHKLKNVSWAQQLPKLET
+                     IDLFDCRELEELISDHESPSIEDLVLFPGLKTLSIRDLPELSSILPSRFSFQKLETLV
+                     IINCPKVKKLPFQERVQPNLPAVYCDEKWWDALEKDQPITELCCSPRFVPN"
+     gene            complement(<8202..>9254)
+                     /gene="N-MYR"
+     mRNA            complement(<8202..>9254)
+                     /gene="N-MYR"
+                     /product="N-myristoyl transferase"
+     CDS             complement(8202..9254)
+                     /gene="N-MYR"
+                     /note="similar to Arabidopsis thaliana N-myristoyl
+                     transferase"
+                     /codon_start=1
+                     /product="N-myristoyl transferase"
+                     /protein_id="AAF19802.1"
+                     /translation="MGDENSLAGSLEEKADQVAEATPLVGDDASLETIVRRFQDSMSV
+                     EKTHKFWETQPVGQFKDIGDTSLPEGPIEAATPLSEVKQEPYNLPAAYEWTTCDMKSD
+                     YVCSEVYNLLKNNYVEDDENMFRFNYSKEFLSWALRPPGYYQSWHIGVRAKVSKKLID
+                     VGFSRLGARMTMSRTIKLYKLPDVPATPGFRKMEPCDVPAVTRLLRNYLSQFIVATDF
+                     DENDVEHWLLPREDVVDSYLVESPETHDLTDFCSFYTLPSTILGNPNYSTLKAAYSYY
+                     NVATKTTFSSLMNDALIVAKQKGFDVFNALDVMHNESFLKQLKFGPGDGQLHYYLYNY
+                     RLRSALKPSELGLVLL"
+     gene            complement(<9901..>11725)
+                     /gene="CK1a"
+     mRNA            complement(join(<9901..10167,10278..10405,10482..10545,
+                     10624..10706,10780..10906,11004..11088,11170..11233,
+                     11339..11400,11507..11577,11675..>11725))
+                     /gene="CK1a"
+                     /product="CK1a protein"
+     CDS             complement(join(9901..10167,10278..10405,10482..10545,
+                     10624..10706,10780..10906,11004..11088,11170..11233,
+                     11339..11400,11507..11577,11675..>11725))
+                     /gene="CK1a"
+                     /note="similar to Arabidopsis thaliana CK1"
+                     /codon_start=1
+                     /product="CK1a protein"
+                     /protein_id="AAF19801.1"
+                     /translation="DLKPDNFLMGLGRRANQVYIIDFGLAKKYRDSTTHQHIPYRENK
+                     NLTGTARYASMNTHLGIEQSRRDDLESLGYILMYFLKGSLPWQGLKAGNKKQKYERIS
+                     EKKVSTSIEVLCRGYPSEFASYFHYCRSLRFDDKPDYAYLKRIFRDLFIREGFQFDYV
+                     FDWTILKYQQSQLTAPPSRNLNPAVGTSAALPPGVSNIDRYTGEEEGRPVGYSHMESS
+                     RRRASGTLDHSGNLSNQQTSSFNRDSMMPSSSMFAQSAGSSRRVAAVSSRDNLLSGEE
+                     FQRSHRTGDVSRGGVISRNSPVEAGKRSSSSRRHYESAIKGIDNLQVSSDDKFHHHH"
+ORIGIN      
+        1 aagcttgaat ggttcagaga ttcgtggtta aggtatggtt gttgagaata ggagagtttc
+       61 cacactttca aacttttctc cctgttcttg atacttgcct ttgttcgtgg acaaacaaga
+      121 atctaagtct aggggaattg atatatggta tttttgacac cattgtacaa aggttttcta
+      181 acttgttttc aatgatttat cgagttagtc cagtcccttt agagtcattt caggtctaga
+      241 gtaggctaaa gagttgaatg aagaagcgtg aagaaaggag caataattgg agttcttccc
+      301 cgcggaacaa tcatgcagag cagtctgacg gttgatccca ctaggagcag cccgacgatt
+      361 gttcccgata tttacggaag tttccatatc attcaaagat tttccctaat caattattcc
+      421 ctcctctaaa gtcgatggcg cctccacata aaaagccatc cctatcttta ttttcttttt
+      481 acgctagttt tgcaagaaga cctagactgg ttttgattgg atttgctatt gtaagggaga
+      541 cggtccttct tctcaccaag aagatcatca tgaaccctat tgatttctct tttgaattat
+      601 atgcagtatc attcagttat tatgtcttgt tcatcttgtt taatggctga gtagtcagct
+      661 aacttgtcta gggttctagg gtgttgatcg caaaagttaa acataaataa gggaccatat
+      721 tgtgtctttg ttcatctatg ttcttaatgc tagctttaac ctgatcactt actgctagat
+      781 ctttggttta acttgctcat taaccatgta gtcgatagct ggatattgag tgaataagct
+      841 gagcatccct agtcagcgaa agtagatatt agggtgctcg gtgaacctat cggacttgat
+      901 ctctactgtt tgtattcgat ccttgatcca aacgagagtt taggtgtcaa ggtcgaaccg
+      961 caaaaggagc agcagcacga cagtgggctg ttctactcga gtgatcgaat ctgaaatcaa
+     1021 cagaggagaa ccatcgatgt ttacctgaga cccgccgtga ccgtcgtaga caccgaagaa
+     1081 atgagcggtt gtctgaggat tgaaccgacc atctaacatc gagtttgtcg gagactgaag
+     1141 gaacctcggt atcgttgaga cagcgtcttc catctccggt cttctcccac agatcgaagt
+     1201 cacaccgtac aaaggcacac tcttgaactc gaacagactc ctactctctg ttctgcttat
+     1261 catcttcttc gatctctcat ctgagccatt gatctcttct ccagcgacaa ctatctccga
+     1321 cgacgacgac gaggatgatg gtgattcctt cttcatgttt aagttaggtg agttgatccg
+     1381 cgaggtcaaa actttcctag acccagaaac agagcacgag ccgttctcta aatcttgaga
+     1441 cgagtactgg ccgttgcagt agcctttacc caacatgatc cctgcgagct ccatctgctg
+     1501 ttcagggaac ggcatgaaag gcatagcaac ggccggtgat acttcctcca ttgatgctct
+     1561 gtttttttga atttttctca gaattttttt gtaaaggttt gagctttttt ttagttgtgt
+     1621 ggttgtgtaa agttggtttg atctattaat ggaagaaaaa ccgaaaattc gacagatttg
+     1681 tacaagaaaa tttaagagat caactttatt agaaggtatg gagacaagat tcccatgata
+     1741 caaccaaaac tttcccggga aagatcaaat atttatcagg gtttcctggg ttgtgggtaa
+     1801 ttcgttgcag cctcttaaag attgtatctc tctctctctc tctctctctc tctctctctt
+     1861 tcttcaatta atttttccag ctaatgctgt ttgtagattc aactacctag aagttgaaag
+     1921 aaggctctct tttcttcttg ttcacagata aaaggagaaa gaaagaaggg aagtggagag
+     1981 ataggtagtg cagaggcaag aatcccttca aatctgctat taatagatat atttatcttt
+     2041 attttattac attataaact tcccgctttt aattattttg ttggttttgt aataagggga
+     2101 gatgtttcgt tcttgaaatt ttaaaatcag aaaaagacac ctgctttcca acttttctgt
+     2161 attcaatatt tttttgtatt ttattttgat tcgttgctcg gctttttttc acttttaata
+     2221 actttgacaa ataaatgttg aatcatcaaa tattattaca ccaaataatt cgtttttctt
+     2281 gtcaaaagaa atatgtttag cttctaaact ttagttaggt catcggttta atgaatttat
+     2341 tagatgtctt ttactaatag acatacgtgt cacattcgga tttaaggcgt aatttataaa
+     2401 atatttattt gtcattaaca aaatttatta gaaacttcta aacattggac taaaaacata
+     2461 ctcatatacc atttagatat taaaaaacaa ttaaacttct gtcattttca gtataagaat
+     2521 aatattcaca atataaataa gataagtaaa gaattggatg ttcttatatt ctgtaaaaat
+     2581 ggaagacaac ctggataata tctaaataat tataatttaa tgggaatcat tagtcaaata
+     2641 atctaaaact atatatctta gaaactattt ttggtcaaac ttaaaaccta aaagcattgg
+     2701 gttttttatt ttttttttgt aaactaccta aaagcattgt ttgtatgtat atgttagcat
+     2761 atgaacatac aaccactata acctaaacta ggatttttta tgtgcggata gattttcatt
+     2821 ttataaatat ataacggata ccatcgcaaa actttaaaag atatttatat tttagtatta
+     2881 tatattgtgt aaatctataa tgttattggt tatgtttctt attcgatatt attattgtat
+     2941 aatgatttgt tctatatatt ttactttatt attaattgtt attatatatt aatatatttt
+     3001 cgagtttggt aaaataaatt catagtatga aataaaaaaa ttgagaatct cctttatttt
+     3061 ttctaatttt tacagactga atacaataca ttttaaaatt ttatttagtt atactataaa
+     3121 ctgatatttt cttagcataa tttatatttg tatgttattt attttagtat attgtgggat
+     3181 tttataagta aatacattat aataataata tattattaat tatgaaatca attgctgcat
+     3241 taatttaaaa atattttaaa attttattaa gattttgtta ggtttttcaa catattttgt
+     3301 tataagtaaa aataaaaata aaatttacaa ttaaaattta tttattaata tctatataat
+     3361 ttataaaaaa aattagaaat gttatatatt aaataaacct agtatgaatt tttatggtat
+     3421 ttattttaat aaagaagata tagaatataa ttataaaatt tgaaaaatag catacaggtt
+     3481 tattttattt tggtttataa taaaatttgt taaattaatg ggtaatagga tatattatta
+     3541 attaccgaaa ttaatcaatg gtatttaatt taaataaaaa tattttaaat ttttagagaa
+     3601 agattttgtt agattttttt ctcaacattt tggttataac taaaaataaa atttaaattt
+     3661 acagttaaaa ttaatttatt attaatatct ttatatattg aatagattaa tataaataat
+     3721 taaataaatg taattaatga aatggatcta ataagactag tatgactttt ttatggtaga
+     3781 taaaaaaggt acttctcttt taatagagaa gattattcaa tcttaattat tttaaaattt
+     3841 tatgtagcca tgaaatggtt atgcagagct gaaagaaatt ggtattttct tgagaatatg
+     3901 aagagaagaa tcggtcttgc aattataaat ttacacgaat tccttatata ctaaagcgca
+     3961 agtcgtctgg cgaatcagat attgccatgt ggaaattttt ttaaaaacaa ttaaaaaatt
+     4021 taacacttgc aaaagtttta aaaacaatta ttttttttcc tatatttcaa caattcaaat
+     4081 attcaactac ctatattcct aatttttctc aaaaacccac cccacgttac tcatatattt
+     4141 tgaaactgtt ttttttttgt ataaaactgt ttcttcatct ctaatataaa ttaaattact
+     4201 ttcttctctc tattgtatct acaaagcatc gtgtcttcaa aagtgagact ctaagttttg
+     4261 acacatggcg atcaaagttc atgttctctg aattgtactc aggtctaagc ttcctcctaa
+     4321 ttctaaatac cactgcctag tggatgcttc atggaaagtc ttctagagag gagatggggt
+     4381 ttggctggtc cttacacaga agagaaggca cccaaatcat gcatggatcc tcagcagaag
+     4441 cgcctatgaa ttctatttta gaggctgaag caatagccct cctgatggca acacagcaaa
+     4501 tggtccaact aaactacttt aaagttgcct tcatgggaga ttgtaagagt ttatttgatg
+     4561 agttaaatca gttcaaatct gaacaaacca tcagaaattt ccgtaggctg cctttgtgct
+     4621 acaggatatc cttgagatct caagaaagag attagacttt tcattacata tctagagata
+     4681 atcttaatgt tgtagactcc cttgctgaac aagctagggt acataagaaa aactatgttg
+     4741 tatcttggaa gttttaatgt ttttaatgaa aatgttgaca aaaaaaaaaa ttattaatga
+     4801 ggatatattt agtatcatga attgtttaaa gatctactcg tttacttgga ccaagtcaca
+     4861 acaagcctat tgtagttgac ttgactatat gaatcaactc tccccgtatc ggtatgatca
+     4921 gatcgaccgc cgcaattatc aacttaaaat tagtttgccc agagagagga atgaagaaag
+     4981 agcgagaaat cttccaaatg gattgcatct catctctagt cgtgggctta gcgcaggcgt
+     5041 tgtgtgaatc tatgaatatg gcagagagaa gagcaggaca taagactgat cttaagcaag
+     5101 ccatcagtga tctcgaaaca gccacaggtg aactgaaggc catacgtgac gacctgaatc
+     5161 tacgcatcca acgagacaat ctagagggtc gaagctgcac aaaccgtgcc agagagtggc
+     5221 tcagtgcggt gcaagcagca gaggtaagaa cagaatcaat tctagcaagg tttatgcgtc
+     5281 gggaacagaa gaagatgatg cagaggagat gccttagttg cttaggttgt gctgaataca
+     5341 aactgagcaa gaaggttttg gggtcactga agagtatcaa tgagctgaga caacgctctg
+     5401 aagatataca aacagatggc gggttgattc aagagacttg tacgaagata cctaccaagt
+     5461 ccgtggttgg gattacaaca atgatggaac aggtgtggga acttctcagt gaagaagaag
+     5521 aaagaggaat cattggtgtt tatggacctg gcggggttgg gaagacaacg ttaatgcaga
+     5581 gcattaacaa cgagctgatc acaaaaggtc atcagtacga tgtactgata tgggttacaa
+     5641 tgtcccgtga attcggagag tgtacaattc agcgagctgt tggagcgcgg ttgggtttat
+     5701 cttgggatga gaaggagaca ggggaaggta gagctttcag gatatacaga gctttgaaac
+     5761 agagacggtt cttgttgttg cttgatgatg tctgggaaga gatagacttt gagaaaaccg
+     5821 gtgttcctcg acctgacagg gaaaacaaat gcaagataat gttcacaaca cggtttctgg
+     5881 cattatgcag caacattggt gcggaatgca agctgagagt ggagtttctg gagaagcaac
+     5941 acgcgtggga gttcttctgt ggtaaagttg ggagaagaga cttcttggag tcaccgttga
+     6001 ttcgccggca cgctgagaac atagtcacta aatgcggtgg attgccacta gcgttgatca
+     6061 ctttaggagg agccatggct cacagagaga ctgaagagga gtggattcac gccaatgaag
+     6121 ttctgaatag gtttccagca gagatgaagg gtatggacta tgtatttgcc cttttaaaat
+     6181 tcagctacga caacctcgag agcgatctgc ttcgaacttg tttcttgtac tgcgctttat
+     6241 tcccagaaga tcactctatt gagatcgaac agcttgttga gtactgggtc ggagaagggt
+     6301 ttctgatcag ctcccatggc gttaacacta tataccaggg atattttctg gttggagatc
+     6361 ttaaagcggc gtgtttggtg gaaaccggag atgagaagac gcaggtgaag atgcataacg
+     6421 tcgttagaag ctttgcattg tggatggcat ctgaacaggg gacttataag gagctgatcc
+     6481 tagtagagcc aagcatggga cttactgaag ctcccaaaac agaaagatgg cgacatacgt
+     6541 tggtgatttc gttgttggat aacagactcc agatgttgcc tgaaaatccc atatgcccga
+     6601 atctgacaac attgctgctc cagcagaaca gctctttgaa gaagattcca gcaaactttt
+     6661 tcatgtatat gcctgttctc agggtccttg acttgtcctt cacaagtatc actgagatcc
+     6721 cactgtctat taagtatttg gtggagttgt atcatctagc tctgtcggga acaaagataa
+     6781 gtgtgctgcc tcaagagctt aggaatctta gaatgctgaa gcatctagac ctacaaagaa
+     6841 cgcagtttct ccagacaatc ccacgagatg ccatatgttg gctaagcaag ctcgaggttc
+     6901 tgaacctata ctacagttac gctggttggg aactgcagag ctatggagaa gatgaagaag
+     6961 aagaacttgg atttgccgac ctggaacact tagaaaacct caccacactc ggtatcactg
+     7021 ttctctcact ggagagcctg aaaacactct acgagtttga cgtcttgcat aaatgtatac
+     7081 agcatctgca cgttgaagaa tgcaatggtc tcccccactt cgatctctca tcactctcaa
+     7141 accacggtgg gaacataaga agacttagca ttaaaagttg caatgacttg gagtacctga
+     7201 tcacacctac agatgttgat tggcttccaa gtctagaggt tctgacggta cacagcctcc
+     7261 acaagttaag cagagtgtgg ggaaattctg taagccaaga gagtctgcgg aacatccgtt
+     7321 gcatcaacat ttcacactgc cacaagctaa agaacgtctc atgggctcag caactcccaa
+     7381 agctagagac gattgacctg ttcgactgca gagagctaga ggaactgatt agtgaccatg
+     7441 agagtccatc cattgaagat ctagtattgt tcccaggcct gaagactttg tcaattaggg
+     7501 atctaccaga actaagcagc atccttccat ctcgattttc tttccagaaa ctagaaactt
+     7561 tagtcatcat aaattgcccc aaagtgaaga aactgccatt tcaggaaagg gtccagccaa
+     7621 acttgccagc agtttactgt gatgagaaat ggtgggacgc actggaaaaa gatcaaccaa
+     7681 tcacagagct ttgttgttca ccacgctttg ttccaaattg atatgaaagc taggagcatt
+     7741 ctatacatat aaacatctgt cagtaatgta catgaaaaca aatgaatgtt aaactatttt
+     7801 gcaaaagaaa tattaagagc ttgagcagcc tttaccaaca ctgtcgcctt tagcatgtcg
+     7861 ctttagagta gagaagtaaa caaaacaaag cagccacaga tgctgattct taccagatta
+     7921 tgagcacagc aaaatttaga atgcagaata tagcttaaca ggtcatggag agtgcaaaaa
+     7981 caaaactata gaaaatgaaa tcagattaaa cggcataaga atggcgagaa acctgagatt
+     8041 ttatcgatca actttgcaaa agtttcaaat tcgcattgcc aacaacttaa aaataagcat
+     8101 tcactatccc atagggaagg agttcagaga aaaaagaaag gaaaaagaaa cccaaaactc
+     8161 cagctgagtt cagtcgaaca tgaagttaac atgtgagcag gtcacaggag caccagccca
+     8221 agttctgatg gctttaaggc gcttcttaga cgatagttgt agagataata gtgaagctgc
+     8281 ccatcccctg gcccaaattt cagttgtttg aggaaactct cattgtgcat aacatccaat
+     8341 gcattgaata catcaaaacc cttctgtttg gcgactatta gagcatcatt catcagtgaa
+     8401 gaaaaagtcg tctttgttgc cacattgtag tatgaataag cagctttcag tgttgaatag
+     8461 ttggggttcc cgagaattgt tgaaggaagg gtgtagaagc tacagaaatc agtaagatca
+     8521 tgggtctccg ggctttctac aaggtaactg tccacaacat cctcccttgg gagaagccag
+     8581 tgctcaacat cattctcatc aaagtctgta gcaacgataa actgactaag ataattcctg
+     8641 agcaaccgtg tcacagcagg gacatcacaa ggctccattt tcctaaatcc aggagtagct
+     8701 ggtacatctg gcaacttgta cagtttaatg gtcctgctca tagtcattct tgcaccaagc
+     8761 cttgaaaatc cgacatcaat aagcttcttc gataccttgg cacgaactcc aatatgccag
+     8821 ctctgatagt acccaggcgg acgcagagcc cagctcagaa actccttaga gtaattgaac
+     8881 ctgaacatat tctcatcatc ctcgacatag ttgttcttca aaaggttgta aacctcagag
+     8941 caaacgtaat cagacttcat atcacacgtg gtccattcat aagcagcggg aaggttgtaa
+     9001 ggctcctgct tgacctcaga caagggagtc gcagcctcga tgggaccttc aggtagactc
+     9061 gtgtccccaa tgtctttgaa ctgcccaacg ggttgagtct cccagaactt gtgcgttttc
+     9121 tccactgaca tggagtcctg gaatcttcgg actatagttt ccagagaagc atcgtcccca
+     9181 actaatggag ttgcttcagc aacttgatct gctttctctt ccagagagcc agcaagtgaa
+     9241 ttctcgtcgc ccatttcctg aaaattacag taattaataa cgaataaact gcatccaaat
+     9301 caacatttag gaattcgcag ctacatcaat ccaaatcatt tgtaaaacca tcaaggcaag
+     9361 gcatagttat ctaggccttt tatcaaatct tctgctagct atagcatgct ttatcacaaa
+     9421 atattcgtaa ctaactaacc gaagtattcg tgatcaactc agatctctca tgagtccaat
+     9481 ttaagaatga aactatgaag acgacgacga cagactaaaa ctcaccgatt gtcgttgaac
+     9541 agagatgaac caagactagc tccgattcgt ttccagtgaa gaagaacagt tatcagatct
+     9601 cggtagcaaa tctccgaatc gtcatatcat cagattagag atttaacaat tcttctatat
+     9661 tgcgtttgtg catcttttat ttttagttat tgcactgagg ccccaatact aatagatagt
+     9721 ttactttaat gccccggaag ttatgaaatt tacagtgtag accaatttaa agtggattaa
+     9781 ctcgattgta ttcaaacttt cgtagtgcgt aattaagaag aagaaaaaca tatgaaactt
+     9841 ctgaggtcgt ttgaccaata cggtgcaagt acaattaatg ttgtgttatt attattatta
+     9901 tcagtggtgg tggtgaaact tgtcgtcgga ggagacttga agattatcaa tgcctttgat
+     9961 ggctgattcg tagtgtcttc tcgaggaaga agacctcttc ccagcctcca caggggagtt
+    10021 cctagagatc actcctccgc ggcttacgtc acctgtacgg tggcttctct gaaactcttc
+    10081 cccgctcaga agattgtctc ggctgctcac tgccgctact ctcctcgatg atcctgctga
+    10141 ttgtgcaaac atcgaggagc tcggcatctg catcacaaat aaagtaaaca aagttgaata
+    10201 ctcatgattt ctctatgtct tacaatacaa gttaggtttt aaggggagag actagagagt
+    10261 gaaacagaac atcataccat ggagtctctg ttaaatgatg atgtctgttg gtttgaaaga
+    10321 ttccctgagt ggtcaagagt gcctgaagct ctccgtcgag atgattccat atgcgagtaa
+    10381 ccaaccggtc gtccttcttc ctcgcctgtg gtgcaacaag gaacaatatg aatgctaagt
+    10441 tctatgcaga gagaatgaga atcacatgtt gagagattta cctgtgtatc tatcaatgtt
+    10501 ggaaacgcca ggtggcaatg ctgcgctagt tccaaccgca gggttctaca gaagaaaaag
+    10561 aagaagaggc tcgatcaaag aatgtcctaa ccaaatagac tgagaacaca taatcatact
+    10621 tacgagatta cgagaaggag gagcggttag ttgtgattgt tggtacttca agatggtcca
+    10681 gtcaaacacg taatcaaatt gaaaccctgc aacagagaaa tgttaatcct cttagaaaaa
+    10741 tgaataggtt tgtttcagag ggaagatgaa ttttcaaacc ttcacggata aagagatctc
+    10801 tgaatatccg tttgagataa gcgtagtctg gtttatcatc aaaacgaagc gaccggcagt
+    10861 agtggaaata ggatgcaaat tctgatgggt aaccccgaca taagacctac gagggggata
+    10921 atatatggat cagaatcatc agatcaagac aaagtgaaaa agaaaagggc agcatgcttg
+    10981 tgagttgtta aaaggacttt tacctcaatg gatgtggaaa ctttcttttc gctaattctc
+    11041 tcgtactttt gcttcttgtt tccagctttc agtccttgcc atggaagact aaaaccgaga
+    11101 tgttccacat gtcatcacaa tgaaagagta caagagatga gtgaagtgag gcgtgtagca
+    11161 gaaactcacc ttcctttgag gaaatacata aggatataac caagagactc aagatcatct
+    11221 cttcggcttt gttcttgagg ttcaacgatg gcagaaaaca aataagtgtc aaatcttgat
+    11281 actcaaaaca tgtaaggaga gaaactggaa cacataaaga ggtcttgtcg agctttacca
+    11341 attcccaagt gggtgttcat actagcataa cgtgcagttc ctgtcaggtt cttgttttct
+    11401 ctgcgaatag gatcacagga aaattagtgt ttcagttatc gtattacaac gagatcatgc
+    11461 ttgaagtaag aacattcgag aggtgatata atgatatcag cttcacctgt agggaatgtg
+    11521 ctgatgtgtt gtactatccc tgtacttctt agctagacca aagtcgatga tgtaaacctt
+    11581 agagaagaaa caaacttata attaatccaa tgatgtctaa aaaaagtaaa acgtgaacaa
+    11641 aagtatacac taggtagaat ataagatgag gaacctggtt ggcacgcctt ccaaggccca
+    11701 tgaggaaatt gtcaggcttg agatc
+//
+
+LOCUS       AY571333                 594 bp    mRNA    linear   PLN 11-FEB-2005
+DEFINITION  Brassica oleracea water stress induced protein mRNA, complete cds.
+ACCESSION   AY571333
+VERSION     AY571333.1
+KEYWORDS    .
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   Li,Z., Zhao,L., Kai,G., Yu,S., Cao,Y., Pang,Y., Sun,X. and Tang,K.
+  TITLE     Cloning and expression analysis of a water stress-induced gene from
+            Brassica oleracea
+  JOURNAL   Plant Physiol. Biochem. 42 (10), 789-794 (2004)
+   PUBMED   15596098
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   Li,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2004) Plant Biotechnology Research Centre,
+            Shanghaijiaotong University, 1954 Huashan Road, Shanghai 200030,
+            China
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Brassica oleracea"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3712"
+                     /note="authority: Brassica oleracea L."
+     CDS             60..347
+                     /note="BoWS"
+                     /codon_start=1
+                     /product="water stress induced protein"
+                     /protein_id="AAS77419.1"
+                     /translation="MAGIINKIGDALHIGGGNKEDEHKKEEHKKHADEHKSGEHKEGI
+                     VDKIKDKIQGGEGHSSGDHKHDGEKKKKKDKKEKKHHHDGHHSSSSDSDSD"
+ORIGIN      
+        1 ggaggatcca acacccataa aagagtgatt aaatttagta gaaaagaaag agatcagata
+       61 tggcaggaat catcaacaag atcggagatg ctctccacat cggaggaggc aacaaggaag
+      121 atgagcacaa gaaggaggaa cacaagaaac acgccgacga gcacaagagt ggtgagcaca
+      181 aggagggtat cgttgataag atcaaagaca agatccaagg cggagaaggc cacagcagcg
+      241 gagaccacaa acatgacggt gagaagaaaa agaagaagga caagaaggag aagaaacatc
+      301 atcatgatgg tcaccacagc agcagcagtg acagcgacag cgattaaagg ttaggaggac
+      361 gtgaggagaa ctattaatgc tgcggttgtc tgttcctatc atctcactct ttgacagaga
+      421 ggggttaatt gaaaagagaa gagtgcatct gtcttccttt attatctaat tttcttttaa
+      481 ttgtcatttt cttctcttat gtttatgttc tcttgtcaga aaaaaataaa cctcatgttt
+      541 cgtaatctat attaataaaa tcgagtttct aactaaaaaa aaaaaaaaaa aaaa
+//
+
+LOCUS       BNACYTB5A                738 bp    mRNA    linear   PLN 27-APR-1993
+DEFINITION  Brassica oleracea cytochrome b-5 mRNA, complete cds.
+ACCESSION   M87514
+VERSION     M87514.1
+KEYWORDS    cytochrome b-5.
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 738)
+  AUTHORS   Kearns,E.V., Keck,P. and Somerville,C.R.
+  TITLE     Nucleotide sequence of cDNA for cytochrome b5 from cauliflower
+            (Brassica oleracea L.)
+  JOURNAL   Unpublished
+COMMENT     Original source text: Brassica oleracea florets cDNA to mRNA.
+FEATURES             Location/Qualifiers
+     source          1..738
+                     /organism="Brassica oleracea"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3712"
+                     /tissue_type="florets"
+     gene            1..738
+                     /gene="cytochrome b-5"
+     CDS             96..500
+                     /gene="cytochrome b-5"
+                     /codon_start=1
+                     /product="cytochrome b-5"
+                     /protein_id="AAA32990.1"
+                     /translation="MASEKKVLGFEEVSQHNKTKDCWLIISGKVYDVTPFMDDHPGGD
+                     EVLLSSTGKDATNDFEDVGHSDTARDMMEKYYIGEIDSSTVPATRTYVAPVQPAYNQD
+                     KTPEFMIKILQFLVPILILGLALVVRQYTKKE"
+     polyA_site      489..508
+                     /gene="cytochrome b-5"
+                     /note="putative"
+     polyA_site      580..599
+                     /gene="cytochrome b-5"
+ORIGIN      
+        1 agttctcaag taggtgaaga gttaccccac caggtgctat cgcaattctg aatctgaaag
+       61 cagaaagatc ccccaccttt gatttgagga gagagatggc ttcagagaag aaggttctag
+      121 gtttcgaaga agtttcgcag cacaacaaaa ccaaggattg ttggcttatt atctccggca
+      181 aggtctatga tgtgacccct ttcatggatg atcatcccgg tggcgatgaa gtgttattgt
+      241 cctcaacagg gaaagatgct acgaatgact ttgaagacgt tggtcacagc gacaccgcga
+      301 gggacatgat ggagaagtac tacattggcg agatcgattc gtctactgtt ccagcgacaa
+      361 ggacatacgt tgcaccagtg caacccgcgt acaaccaaga caagacacca gaattcatga
+      421 tcaagatcct tcagttcctt gttccaatct tgatcttggg tcttgctctc gtcgtccgtc
+      481 agtatactaa gaaagagtag aagcagagag aggcttgcgg tattgcttcc cattggataa
+      541 ctctttctca tatctctgta tttcgaaacc ttggtttggt tctagattgc acacctctgt
+      601 tctaaaaatt attcttgtta gaactactat aaaccaataa tcaatgtgtt gttagtgttt
+      661 tcgttggtgg tatcatctgg tttattttgt gtgttgattg agatgtgttc aactttgatg
+      721 atcaaataaa agagtgtt
+//
+
+LOCUS       JN859553                1155 bp    DNA     linear   PLN 19-NOV-2013
+DEFINITION  Brassica oleracea FAD2-2 gene, complete cds.
+ACCESSION   JN859553
+VERSION     JN859553.1
+KEYWORDS    .
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 1155)
+  AUTHORS   Lee,K.R., In Sohn,S., Jung,J.H., Kim,S.H., Roh,K.H., Kim,J.B.,
+            Suh,M.C. and Kim,H.U.
+  TITLE     Functional analysis and tissue-differential expression of four FAD2
+            genes in amphidiploid Brassica napus derived from Brassica rapa and
+            Brassica oleracea
+  JOURNAL   Gene 531 (2), 253-262 (2013)
+   PUBMED   24029080
+REFERENCE   2  (bases 1 to 1155)
+  AUTHORS   Lee,K.-R., Kim,S.-H., Roh,K.-H., Kim,J.-B. and Kim,H.U.
+  TITLE     Cloning of Brassica oleracea microsomal delta-12 oleate desaturase
+            (BrFAD2) genes
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1155)
+  AUTHORS   Lee,K.-R., Kim,S.-H., Roh,K.-H., Kim,J.-B. and Kim,H.U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-OCT-2011) Agricultural Bio-resources, National
+            Academy of Agricultural Science, RDA, 150 Suin-ro, Suwon,
+            Gyeonggi-do 441-707, Republic of Korea
+FEATURES             Location/Qualifiers
+     source          1..1155
+                     /organism="Brassica oleracea"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3712"
+     mRNA            <1..>1155
+                     /product="FAD2-2"
+     CDS             1..1155
+                     /note="BoFAD2-2"
+                     /codon_start=1
+                     /product="FAD2-2"
+                     /protein_id="AFC41107.1"
+                     /translation="MGAGGRMQVSPPSSSPETNTLKRVPCETPPFTLGDLKKAIPPHC
+                     FKRSIPRSFSYLLFDIIISSSLYHLSTAYFPLLPHPLPYLAWPLYWACQGCVLTGLWV
+                     IAHECGHHAFSDHQLLDDAVGLVFHSFLLVPYFSWKYSHRRHHSNTGSLERDEVFVPK
+                     KKSDVKWYGKYLNNPLGRTVMLTVQFTLGWPLYLAFNVSGRPYSDGFACHFHPNAPIY
+                     NDRERLQIYISDAGVLSVCYGLYRYAGSRGVASMVCVYGVPLMIVNCFLVLITYLQHT
+                     HPSLPHYDSSEWDWLRGALATVDRDYGILNKVFHNITDTHVAHHLFSTMPHYNAMEAT
+                     KAIKPILGEYYQFDGTPVVKAMWREAKECIYVEPDRQGEKKGVFWYNNKL"
+ORIGIN      
+        1 atgggtgcag gtggaagaat gcaagtctct cctccctcca gctcccccga aaccaacacc
+       61 ctcaaacgcg tcccctgcga gacaccaccc ttcactctcg gagacctcaa gaaagcaatc
+      121 ccacctcact gcttcaaacg ctccatcccg cgctccttct cctacctcct cttcgacatc
+      181 atcatctcct cctccctcta ccacctctcc acagcctact tccctctcct cccccaccct
+      241 ctcccttacc tcgcctggcc cctctactgg gcctgccaag gctgcgtcct aacgggcctc
+      301 tgggtcatcg cccacgagtg cggccaccac gccttcagcg accaccagtt gctggacgac
+      361 gccgtgggcc tcgtcttcca ctccttcctc ctcgtccctt acttctcctg gaagtacagc
+      421 catcgacgcc accattccaa caccggatcc ctcgagaggg atgaagtgtt cgtccccaag
+      481 aagaaatccg acgtcaagtg gtacggcaag tacctcaaca acccgctagg acgcacggtg
+      541 atgctaaccg tccagttcac gctcggctgg ccgttgtact tagccttcaa cgtctctgga
+      601 agaccttaca gcgacggttt cgcttgccat ttccacccga acgctcccat ctacaacgac
+      661 cgcgagcgtc tccagatata catctctgac gctggcgtcc tctccgtatg ttacggtctc
+      721 taccgctacg ctggttcgcg aggagtggcc tcgatggtct gtgtctacgg agttccgctt
+      781 atgattgtca actgtttcct cgtcttgatc acttacttgc agcacacgca cccttcgctg
+      841 cctcactatg attcttcgga gtgggattgg ttgagaggag ctttggctac tgtggataga
+      901 gactatggaa tcttgaacaa ggtgtttcat aacatcacgg acacgcacgt ggcgcatcat
+      961 ctgttctcga cgatgccgca ttataacgcg atggaagcga ccaaggcgat aaagccgata
+     1021 cttggagagt attaccagtt tgatggaacg ccggtggtta aggcgatgtg gagggaggcg
+     1081 aaggagtgta tctatgttga accggatagg caaggtgaga agaaaggtgt gttctggtac
+     1141 aacaataagt tatga
+//
+
