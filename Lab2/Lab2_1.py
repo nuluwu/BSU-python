@@ -1,6 +1,5 @@
 ## Лабораторная работа 2, Вариант 1
 
-
 TestData = """
     >Rosalind_6404
     CCTGCGGAAGATCGGCACTAGAATAGCCAGAACCGTTTCTCTGAGGCTTCCGGCCTTCCC
